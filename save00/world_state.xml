@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="40.8766" 
-    clouds_02_target="52.3215" 
+    clouds_01_target="41.2295" 
+    clouds_02_target="53.1134" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="5" 
+    day_count="6" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -55,23 +55,23 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.68831" 
+    time="0.110259" 
     time_dt="1" 
-    time_total="5.46593" 
+    time_total="5.88475" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.0964" 
-    wind_speed="-5.78404" 
+    wind="-0.147889" 
+    wind_speed="-8.87341" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="5" >
+        value="9" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="2" >
+        value="3" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
@@ -94,6 +94,10 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_ACTIVE_-359_4891" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_LEAKED_0_2" 
         value="1" >
       </E>
@@ -102,8 +106,12 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_LEAKED_0_9" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="7" >
+        value="10" >
       </E>
       <E 
         key="TEMPLE_PERK_REROLL_COUNT" 
@@ -185,6 +193,15 @@
       </string>
       <string>
         new_kill_roboguard
+      </string>
+      <string>
+        PERK_STRONG_KICK
+      </string>
+      <string>
+        PERK_LOW_HP_DAMAGE_BOOST
+      </string>
+      <string>
+        PERK_BOUNCE
       </string>
     </flags>
     <changed_materials>

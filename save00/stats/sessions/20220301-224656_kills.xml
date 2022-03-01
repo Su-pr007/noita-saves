@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="243" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="253" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -30,6 +30,8 @@
     </E>
     <E key="fungus" value="3" >
     </E>
+    <E key="giant" value="1" >
+    </E>
     <E key="giantshooter_weak" value="1" >
     </E>
     <E key="goblin_bomb" value="2" >
@@ -44,13 +46,19 @@
     </E>
     <E key="miniblob" value="44" >
     </E>
-    <E key="rat" value="3" >
+    <E key="pebble_physics" value="2" >
+    </E>
+    <E key="pollen" value="1" >
+    </E>
+    <E key="rat" value="4" >
     </E>
     <E key="roboguard" value="1" >
     </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
     <E key="scavenger_invis" value="1" >
     </E>
-    <E key="shotgunner" value="7" >
+    <E key="shotgunner" value="9" >
     </E>
     <E key="shotgunner_weak" value="6" >
     </E>
