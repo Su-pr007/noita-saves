@@ -1,0 +1,90 @@
+<Stats deaths="177" kills="181" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="20" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="13" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="2" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="23" >
+    </E>
+    <E key="iceskull | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="7" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="26" >
+    </E>
+    <E key="player | $damage_slice" value="8" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="4" >
+    </E>
+    <E key="scavenger_grenade | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="9" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="8" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="5" >
+    </E>
+    <E key="slimeshooter | $damage_melee" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="21" >
+    </E>
+    <E key="tank | $damage_explosion" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="10" >
+    </E>
+    <E key="tank_rocket | $damage_explosion" value="1" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="6" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="glue" value="16" >
+    </E>
+    <E key="iceskull" value="24" >
+    </E>
+    <E key="pebble_physics" value="2" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="4" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="84" >
+    </E>
+    <E key="scavenger_glue" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="5" >
+    </E>
+    <E key="scavenger_smg" value="8" >
+    </E>
+    <E key="shotgunner" value="16" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="sniper" value="6" >
+    </E>
+    <E key="worm_big" value="2" >
+    </E>
+    <E key="worm_tiny" value="5" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,22 @@
+<Stats deaths="36" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="21" >
+    </E>
+    <E key="NULL | $damage_fire" value="7" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | урон от материала: кислота" value="1" >
+    </E>
+    <E key="NULL | урон от материала: радиоактивный камень" value="1" >
+    </E>
+    <E key="fungus | beam" value="1" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fungus" value="1" >
+    </E>
+  </kill_map>
+</Stats>

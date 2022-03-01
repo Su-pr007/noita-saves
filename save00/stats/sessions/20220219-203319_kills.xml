@@ -1,0 +1,28 @@
+<Stats deaths="1" kills="29" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="3" >
+    </E>
+    <E key="bigbat" value="2" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="9" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="radioactive_blob_trail" value="2" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,28 @@
+<Stats deaths="11" kills="187" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | урон от материала: кислота" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fish" value="25" >
+    </E>
+    <E key="pebble_player_physics" value="10" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="pollen" value="149" >
+    </E>
+  </kill_map>
+</Stats>

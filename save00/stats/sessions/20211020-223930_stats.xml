@@ -1,0 +1,18 @@
+<Stats BUILD_NAME="Noita-Build-Apr 23 2021-18:44:24" >
+  <stats biomes_visited_with_wands="4" damage_taken="12.182" dead="1" death_count="0" death_pos.x="1124.9" death_pos.y="3425.14" enemies_killed="23" gold="402" gold_all="847" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="11" kicks="4" killed_by=" | урон от материала: Жидкость с проклятием жадности" killed_by_extra="" places_visited="4" playtime="850.967" playtime_str="0:14:10" projectiles_shot="1541" streaks="0" teleports="0" wands_edited="5" world_seed="1312440918" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="3" damage_taken="7.22743" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="15" gold="12" gold_all="457" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="10" kicks="4" killed_by="" killed_by_extra="" places_visited="3" playtime="771.933" playtime_str="0:12:51" projectiles_shot="1025" streaks="0" teleports="0" wands_edited="5" world_seed="1312440918" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

@@ -1,0 +1,114 @@
+<Stats deaths="393" kills="203" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="22" >
+    </E>
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="32" >
+    </E>
+    <E key="NULL | $damage_fire" value="38" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="37" >
+    </E>
+    <E key="NULL | $damage_projectile" value="11" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="32" >
+    </E>
+    <E key="NULL | урон от материала: замораживающая жидкость" value="3" >
+    </E>
+    <E key="NULL | урон от материала: замораживающее испарение" value="6" >
+    </E>
+    <E key="NULL | урон от материала: кислота" value="4" >
+    </E>
+    <E key="NULL | урон от материала: лава" value="5" >
+    </E>
+    <E key="NULL | урон от материала: радиоактивный газ" value="1" >
+    </E>
+    <E key="bat | $damage_melee" value="2" >
+    </E>
+    <E key="homunculus | $damage_explosion" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="3" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="13" >
+    </E>
+    <E key="iceskull | $damage_ice" value="1" >
+    </E>
+    <E key="iceskull | $damage_melee" value="2" >
+    </E>
+    <E key="monk | $damage_projectile" value="1" >
+    </E>
+    <E key="orb_laseremitter_four | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="9" >
+    </E>
+    <E key="player | $damage_electricity" value="4" >
+    </E>
+    <E key="player | $damage_explosion" value="13" >
+    </E>
+    <E key="player | $damage_fire" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="80" >
+    </E>
+    <E key="player | $damage_slice" value="25" >
+    </E>
+    <E key="player | bzzt!" value="4" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="9" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="1" >
+    </E>
+    <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner | sprays" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="2" >
+    </E>
+    <E key="sniper | $damage_projectile" value="4" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+    <E key="thunderskull | $damage_electricity" value="1" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+    <E key="worm_big | worm bite" value="9" >
+    </E>
+    <E key="worm_tiny | worm bite" value="6" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="4" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="iceskull" value="5" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="pollen" value="7" >
+    </E>
+    <E key="rat" value="158" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slimeshooter" value="10" >
+    </E>
+    <E key="worm_tiny" value="3" >
+    </E>
+    <E key="zombie" value="5" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

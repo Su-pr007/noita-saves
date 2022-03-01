@@ -1,0 +1,110 @@
+<Stats deaths="145" kills="154" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="4" >
+    </E>
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="22" >
+    </E>
+    <E key="NULL | урон от материала: замораживающее испарение" value="5" >
+    </E>
+    <E key="NULL | урон от материала: кислота" value="11" >
+    </E>
+    <E key="NULL | урон от материала: лава" value="16" >
+    </E>
+    <E key="NULL | урон от материала: радиоактивный лед" value="5" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="goblin_bomb | $damage_melee" value="1" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="1" >
+    </E>
+    <E key="iceskull | $damage_ice" value="3" >
+    </E>
+    <E key="longleg | $damage_melee" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="3" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="necromancer_shop | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="32" >
+    </E>
+    <E key="player | $damage_kick" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="roboguard | $damage_melee" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_grenade | $damage_melee" value="4" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="5" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="4" >
+    </E>
+    <E key="scavenger_smg | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="3" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="bat" value="2" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="longleg" value="26" >
+    </E>
+    <E key="miner" value="11" >
+    </E>
+    <E key="miner_weak" value="10" >
+    </E>
+    <E key="miniblob" value="11" >
+    </E>
+    <E key="scavenger_grenade" value="33" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_smg" value="14" >
+    </E>
+    <E key="shotgunner" value="9" >
+    </E>
+    <E key="shotgunner_weak" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="sniper" value="7" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="zombie_weak" value="11" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,50 @@
+<Stats deaths="34" kills="69" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | урон от материала: замораживающее испарение" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="13" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="glue" value="8" >
+    </E>
+    <E key="pebble_player_physics" value="2" >
+    </E>
+    <E key="plague_rats_rat" value="4" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="pollen" value="45" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+  </kill_map>
+</Stats>

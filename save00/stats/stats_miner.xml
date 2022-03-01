@@ -1,0 +1,64 @@
+<Stats deaths="241" kills="34" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="16" >
+    </E>
+    <E key="NULL | $damage_explosion" value="15" >
+    </E>
+    <E key="NULL | $damage_fire" value="51" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="13" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="32" >
+    </E>
+    <E key="NULL | урон от материала: замораживающее испарение" value="1" >
+    </E>
+    <E key="NULL | урон от материала: кислота" value="4" >
+    </E>
+    <E key="NULL | урон от материала: лава" value="5" >
+    </E>
+    <E key="bigfirebug | $damage_fire" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="2" >
+    </E>
+    <E key="firebug | $damage_fire" value="1" >
+    </E>
+    <E key="firebug | $damage_melee" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="3" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="11" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="39" >
+    </E>
+    <E key="player | $damage_slice" value="22" >
+    </E>
+    <E key="player | bzzt!" value="9" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="6" >
+    </E>
+    <E key="worm | worm bite" value="4" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="frog" value="4" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="rat" value="21" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

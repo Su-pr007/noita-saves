@@ -1,0 +1,74 @@
+<Stats deaths="198" kills="67" player_kills="4" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="4" >
+    </E>
+    <E key="NULL | $damage_explosion" value="15" >
+    </E>
+    <E key="NULL | $damage_fire" value="25" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="10" >
+    </E>
+    <E key="NULL | урон от материала: замораживающее испарение" value="1" >
+    </E>
+    <E key="NULL | урон от материала: лава" value="2" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="2" >
+    </E>
+    <E key="firemage_weak | $damage_fire" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="2" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="4" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_melee" value="8" >
+    </E>
+    <E key="player | $damage_projectile" value="55" >
+    </E>
+    <E key="player | $damage_slice" value="22" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="7" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="2" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="9" >
+    </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="9" >
+    </E>
+    <E key="slimeshooter_weak | beam" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="8" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="3" >
+    </E>
+    <E key="longleg" value="13" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="player" value="4" >
+    </E>
+    <E key="pollen" value="4" >
+    </E>
+    <E key="shotgunner_weak" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="10" >
+    </E>
+    <E key="zombie_weak" value="25" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,40 @@
+<Stats deaths="44" kills="55" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="11" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="18" >
+    </E>
+    <E key="player | $damage_slice" value="5" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="turret_left | $damage_projectile" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miner" value="2" >
+    </E>
+    <E key="pollen" value="39" >
+    </E>
+    <E key="scavenger_grenade" value="4" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,32 @@
+<Stats deaths="1" kills="31" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | урон от материала: лава" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="giant" value="2" >
+    </E>
+    <E key="iceskull" value="5" >
+    </E>
+    <E key="monk" value="3" >
+    </E>
+    <E key="pebble_physics" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="5" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+  </kill_map>
+</Stats>

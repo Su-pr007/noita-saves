@@ -1,0 +1,56 @@
+<Stats deaths="243" kills="21" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="19" >
+    </E>
+    <E key="NULL | $damage_fire" value="51" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="22" >
+    </E>
+    <E key="NULL | урон от материала: кислота" value="1" >
+    </E>
+    <E key="NULL | урон от материала: лава" value="4" >
+    </E>
+    <E key="NULL | урон от материала: радиоактивный газ" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="2" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="8" >
+    </E>
+    <E key="player | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="65" >
+    </E>
+    <E key="player | $damage_slice" value="24" >
+    </E>
+    <E key="player | bzzt!" value="12" >
+    </E>
+    <E key="player_rng_items | $damage_melee" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="4" >
+    </E>
+    <E key="rat | $damage_melee" value="10" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="3" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="4" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firebug" value="4" >
+    </E>
+    <E key="rat" value="15" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+  </kill_map>
+</Stats>

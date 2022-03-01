@@ -1,0 +1,24 @@
+<Stats deaths="1" kills="40" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="5" >
+    </E>
+    <E key="slime" value="20" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

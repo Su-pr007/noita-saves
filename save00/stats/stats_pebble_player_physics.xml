@@ -1,0 +1,48 @@
+<Stats deaths="93" kills="39" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="14" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | physics body damaged" value="2" >
+    </E>
+    <E key="NULL | урон от материала: замораживающее испарение" value="2" >
+    </E>
+    <E key="NULL | урон от материала: лава" value="2" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="drone_physics | $damage_projectile" value="2" >
+    </E>
+    <E key="homunculus | $damage_explosion" value="1" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer_shop | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer_shop | $damage_projectile" value="9" >
+    </E>
+    <E key="pebble_player_physics | $damage_explosion" value="38" >
+    </E>
+    <E key="player | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="4" >
+    </E>
+    <E key="slimeshooter_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="pebble_player_physics" value="38" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+  </kill_map>
+</Stats>

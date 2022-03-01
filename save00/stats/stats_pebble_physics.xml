@@ -1,0 +1,42 @@
+<Stats deaths="248" kills="102" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="5" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="4" >
+    </E>
+    <E key="NULL | physics body damaged" value="10" >
+    </E>
+    <E key="NULL | урон от материала: замораживающая жидкость" value="5" >
+    </E>
+    <E key="NULL | урон от материала: замораживающее испарение" value="65" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="2" >
+    </E>
+    <E key="pebble_physics | $damage_explosion" value="102" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="35" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="player | bzzt!" value="5" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="4" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="3" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="pebble_physics" value="102" >
+    </E>
+  </kill_map>
+</Stats>
