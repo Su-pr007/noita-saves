@@ -1,48 +1,70 @@
-<Stats deaths="0" kills="142" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="243" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
     <E key="acidshooter_weak" value="1" >
     </E>
     <E key="alchemist" value="1" >
     </E>
-    <E key="bat" value="14" >
+    <E key="ant" value="1" >
     </E>
-    <E key="bigfirebug" value="3" >
+    <E key="bat" value="22" >
+    </E>
+    <E key="bigfirebug" value="6" >
+    </E>
+    <E key="blob" value="7" >
     </E>
     <E key="cocktail" value="1" >
     </E>
-    <E key="firebug" value="8" >
+    <E key="firebug" value="10" >
     </E>
     <E key="firemage_weak" value="1" >
     </E>
-    <E key="frog" value="6" >
+    <E key="fly" value="6" >
     </E>
-    <E key="frog_big" value="1" >
+    <E key="frog" value="8" >
+    </E>
+    <E key="frog_big" value="2" >
+    </E>
+    <E key="fungus" value="3" >
     </E>
     <E key="giantshooter_weak" value="1" >
     </E>
-    <E key="goblin_bomb" value="1" >
+    <E key="goblin_bomb" value="2" >
     </E>
-    <E key="longleg" value="12" >
+    <E key="longleg" value="16" >
     </E>
-    <E key="miner" value="4" >
+    <E key="miner" value="5" >
     </E>
     <E key="miner_fire" value="5" >
     </E>
     <E key="miner_weak" value="17" >
     </E>
-    <E key="shotgunner" value="5" >
+    <E key="miniblob" value="44" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="shotgunner" value="7" >
     </E>
     <E key="shotgunner_weak" value="6" >
     </E>
     <E key="slime" value="33" >
     </E>
-    <E key="slimeshooter" value="3" >
+    <E key="slimeshooter" value="6" >
     </E>
     <E key="slimeshooter_weak" value="3" >
     </E>
-    <E key="zombie" value="2" >
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="zombie" value="7" >
     </E>
     <E key="zombie_weak" value="14" >
     </E>

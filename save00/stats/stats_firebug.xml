@@ -1,8 +1,8 @@
-<Stats deaths="330" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="339" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="49" >
+    <E key="NULL | $damage_explosion" value="51" >
     </E>
-    <E key="NULL | $damage_physicshit" value="24" >
+    <E key="NULL | $damage_physicshit" value="25" >
     </E>
     <E key="NULL | $damage_projectile" value="4" >
     </E>
@@ -12,9 +12,11 @@
     </E>
     <E key="NULL | урон от материала: кислота" value="8" >
     </E>
-    <E key="bat | $damage_melee" value="4" >
+    <E key="bat | $damage_melee" value="7" >
     </E>
     <E key="bigbat | $damage_melee" value="3" >
+    </E>
+    <E key="chest_mimic | $damage_melee" value="1" >
     </E>
     <E key="homunculus | $damage_projectile" value="16" >
     </E>
@@ -24,7 +26,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="52" >
+    <E key="player | $damage_projectile" value="54" >
     </E>
     <E key="player | $damage_slice" value="27" >
     </E>

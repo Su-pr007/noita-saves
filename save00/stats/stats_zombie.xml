@@ -1,16 +1,18 @@
-<Stats deaths="125" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="135" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="23" >
     </E>
-    <E key="NULL | $damage_explosion" value="16" >
+    <E key="NULL | $damage_explosion" value="18" >
     </E>
     <E key="NULL | $damage_fire" value="7" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
+    <E key="NULL | урон от материала: кислота" value="1" >
+    </E>
     <E key="NULL | урон от материала: лава" value="1" >
     </E>
-    <E key="NULL | урон от материала: радиоактивный камень" value="10" >
+    <E key="NULL | урон от материала: радиоактивный камень" value="12" >
     </E>
     <E key="frog | $damage_melee" value="1" >
     </E>
@@ -24,7 +26,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="14" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -64,7 +66,7 @@
     </E>
     <E key="miner_weak" value="1" >
     </E>
-    <E key="rat" value="3" >
+    <E key="rat" value="4" >
     </E>
   </kill_map>
 </Stats>

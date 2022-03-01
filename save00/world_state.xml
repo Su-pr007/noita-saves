@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="40.0151" 
-    clouds_02_target="50.3882" 
+    clouds_01_target="40.8766" 
+    clouds_02_target="52.3215" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="4" 
+    day_count="5" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -47,7 +47,7 @@
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
-    player_polymorph_count="0" 
+    player_polymorph_count="2" 
     player_polymorph_random_count="5" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.695237" 
+    time="0.68831" 
     time_dt="1" 
-    time_total="4.48053" 
+    time_total="5.46593" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.015681" 
-    wind_speed="-0.940879" 
+    wind="-0.0964" 
+    wind_speed="-5.78404" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -119,18 +119,18 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_snowcave,$biome_excavationsite,$biome_holymountain,_EMPTY_,$biome_coalmin" >
+        value="$biome_holymountain,$biome_fungicave,$biome_snowcave,$biome_excavationsite,$biom" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="14" >
+        value="16" >
       </E>
     </lua_globals>
     <pending_portals>
     </pending_portals>
     <apparitions_per_level>
       <primitive>
-        0
+        4
       </primitive>
     </apparitions_per_level>
     <npc_parties>
@@ -182,6 +182,9 @@
       </string>
       <string>
         new_action_orbit_lasers
+      </string>
+      <string>
+        new_kill_roboguard
       </string>
     </flags>
     <changed_materials>
