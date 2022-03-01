@@ -1,12 +1,12 @@
-<Stats deaths="395" kills="121" player_kills="3" player_projectile_count="0" >
+<Stats deaths="417" kills="123" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="49" >
+    <E key="NULL | $damage_explosion" value="50" >
     </E>
-    <E key="NULL | $damage_fire" value="14" >
+    <E key="NULL | $damage_fire" value="16" >
     </E>
     <E key="NULL | $damage_ice" value="3" >
     </E>
@@ -14,11 +14,11 @@
     </E>
     <E key="NULL | $damage_projectile" value="7" >
     </E>
-    <E key="NULL | $damage_radioactive" value="5" >
+    <E key="NULL | $damage_radioactive" value="6" >
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="1" >
     </E>
-    <E key="NULL | урон от материала: замораживающее испарение" value="20" >
+    <E key="NULL | урон от материала: замораживающее испарение" value="22" >
     </E>
     <E key="NULL | урон от материала: кислота" value="2" >
     </E>
@@ -42,9 +42,11 @@
     </E>
     <E key="player | $damage_explosion" value="51" >
     </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="81" >
+    <E key="player | $damage_projectile" value="95" >
     </E>
     <E key="player | $damage_slice" value="33" >
     </E>
@@ -55,6 +57,8 @@
     <E key="playerghost | $damage_melee" value="2" >
     </E>
     <E key="rat | $damage_melee" value="2" >
+    </E>
+    <E key="scavenger_heal | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="1" >
     </E>
@@ -92,7 +96,7 @@
     </E>
     <E key="player" value="3" >
     </E>
-    <E key="pollen" value="11" >
+    <E key="pollen" value="13" >
     </E>
     <E key="rat" value="87" >
     </E>
