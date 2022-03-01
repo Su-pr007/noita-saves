@@ -1,4 +1,4 @@
-<Stats deaths="11" kills="187" player_kills="2" player_projectile_count="0" >
+<Stats deaths="11" kills="195" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -14,7 +14,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="fish" value="25" >
+    <E key="fish" value="33" >
     </E>
     <E key="pebble_player_physics" value="10" >
     </E>

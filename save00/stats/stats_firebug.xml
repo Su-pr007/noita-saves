@@ -1,4 +1,4 @@
-<Stats deaths="323" kills="25" player_kills="0" player_projectile_count="0" >
+<Stats deaths="330" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="49" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_water" value="2" >
     </E>
-    <E key="NULL | урон от материала: Вода" value="64" >
+    <E key="NULL | урон от материала: Вода" value="65" >
     </E>
     <E key="NULL | урон от материала: кислота" value="8" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="46" >
+    <E key="player | $damage_projectile" value="52" >
     </E>
     <E key="player | $damage_slice" value="27" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="pollen" value="1" >
     </E>
-    <E key="rat" value="17" >
+    <E key="rat" value="18" >
     </E>
     <E key="scavenger_smg" value="1" >
     </E>

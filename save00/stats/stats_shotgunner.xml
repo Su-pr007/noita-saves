@@ -1,18 +1,18 @@
-<Stats deaths="393" kills="203" player_kills="1" player_projectile_count="0" >
+<Stats deaths="406" kills="204" player_kills="1" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="22" >
+    <E key="NULL | $damage_drowning" value="23" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="32" >
+    <E key="NULL | $damage_explosion" value="34" >
     </E>
-    <E key="NULL | $damage_fire" value="38" >
+    <E key="NULL | $damage_fire" value="39" >
     </E>
     <E key="NULL | $damage_physicshit" value="37" >
     </E>
     <E key="NULL | $damage_projectile" value="11" >
     </E>
-    <E key="NULL | $damage_radioactive" value="32" >
+    <E key="NULL | $damage_radioactive" value="35" >
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="3" >
     </E>
@@ -23,6 +23,8 @@
     <E key="NULL | урон от материала: лава" value="5" >
     </E>
     <E key="NULL | урон от материала: радиоактивный газ" value="1" >
+    </E>
+    <E key="NULL | урон от материала: радиоактивный камень" value="1" >
     </E>
     <E key="bat | $damage_melee" value="2" >
     </E>
@@ -44,11 +46,11 @@
     </E>
     <E key="player | $damage_electricity" value="4" >
     </E>
-    <E key="player | $damage_explosion" value="13" >
+    <E key="player | $damage_explosion" value="15" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="80" >
+    <E key="player | $damage_projectile" value="83" >
     </E>
     <E key="player | $damage_slice" value="25" >
     </E>
@@ -102,7 +104,7 @@
     </E>
     <E key="shotgunner" value="2" >
     </E>
-    <E key="slimeshooter" value="10" >
+    <E key="slimeshooter" value="11" >
     </E>
     <E key="worm_tiny" value="3" >
     </E>

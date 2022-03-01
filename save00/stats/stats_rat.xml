@@ -1,4 +1,4 @@
-<Stats deaths="1237" kills="36" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1245" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="34" >
     </E>
@@ -24,15 +24,17 @@
     </E>
     <E key="NULL | урон от материала: радиоактивный камень" value="4" >
     </E>
-    <E key="bat | $damage_melee" value="15" >
+    <E key="bat | $damage_melee" value="19" >
     </E>
     <E key="bigbat | $damage_melee" value="4" >
+    </E>
+    <E key="bigfirebug | $damage_projectile" value="1" >
     </E>
     <E key="blob | $damage_melee" value="5" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
-    <E key="firebug | $damage_fire" value="13" >
+    <E key="firebug | $damage_fire" value="14" >
     </E>
     <E key="firebug | $damage_melee" value="4" >
     </E>
@@ -116,7 +118,7 @@
     </E>
     <E key="tank | $damage_explosion" value="12" >
     </E>
-    <E key="tank | $damage_projectile" value="34" >
+    <E key="tank | $damage_projectile" value="36" >
     </E>
     <E key="tank_rocket | $damage_explosion" value="3" >
     </E>

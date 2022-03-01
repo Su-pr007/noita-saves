@@ -1,18 +1,18 @@
-<Stats deaths="73" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="79" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="18" >
+    <E key="NULL | $damage_explosion" value="19" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="7" >
+    <E key="NULL | $damage_radioactive" value="9" >
     </E>
     <E key="NULL | урон от материала: кислота" value="3" >
     </E>
-    <E key="NULL | урон от материала: лава" value="2" >
+    <E key="NULL | урон от материала: лава" value="4" >
     </E>
     <E key="bigfirebug | $damage_fire" value="1" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="10" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
