@@ -1,10 +1,12 @@
-<Stats deaths="50" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="51" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="24" >
     </E>
     <E key="NULL | $damage_fire" value="13" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | урон от материала: Яд" value="1" >
     </E>
     <E key="NULL | урон от материала: кислота" value="1" >
     </E>
