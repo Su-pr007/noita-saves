@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="29.3443" 
-    clouds_02_target="26.442" 
+    clouds_01_target="51.3589" 
+    clouds_02_target="75.8448" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="7" 
+    day_count="9" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -47,7 +47,7 @@
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
-    player_polymorph_count="2" 
+    player_polymorph_count="3" 
     player_polymorph_random_count="5" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
@@ -55,23 +55,23 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.603379" 
+    time="0.236848" 
     time_dt="1" 
-    time_total="7.36616" 
+    time_total="8.98712" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.154553" 
-    wind_speed="-9.27326" 
+    wind="-0.29203" 
+    wind_speed="-17.5219" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="12" >
+        value="16" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="4" >
+        value="5" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
@@ -147,11 +147,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_snowcave,$biome_snowcastle,$biome_holymountain,$biome_fungicave,$biome_sn" >
+        value="$biome_holymountain,$biome_fungicave,$biome_rainforest,$biome_snowcave,$biome_sn" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="18" >
+        value="21" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -261,6 +261,36 @@
       </string>
       <string>
         PERK_PICKED_PROJECTILE_REPULSION_SECTOR
+      </string>
+      <string>
+        new_kill_mine_scavenger
+      </string>
+      <string>
+        new_kill_lukki
+      </string>
+      <string>
+        new_kill_shooterflower
+      </string>
+      <string>
+        new_kill_lukki_longleg
+      </string>
+      <string>
+        new_kill_root_grower_branch
+      </string>
+      <string>
+        new_kill_lukki_eggs
+      </string>
+      <string>
+        new_kill_lukki_tiny
+      </string>
+      <string>
+        new_action_flamethrower
+      </string>
+      <string>
+        new_action_burst_4
+      </string>
+      <string>
+        new_action_spiral_shot
       </string>
     </flags>
     <changed_materials>

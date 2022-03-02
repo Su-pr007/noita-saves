@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Apr 23 2021-18:44:24" >
-  <stats biomes_visited_with_wands="6" damage_taken="28.5038" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="231" gold="2187" gold_all="4117" gold_infinite="0" healed="5" heart_containers="0" hp="100" items="34" kicks="38" killed_by="" killed_by_extra="" places_visited="6" playtime="4926.87" playtime_str="1:22:06" projectiles_shot="10107" streaks="0" teleports="1" wands_edited="10" world_seed="20220301" >
+  <stats biomes_visited_with_wands="6" damage_taken="35.0868" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="272" gold="2187" gold_all="4117" gold_infinite="0" healed="5" heart_containers="0" hp="100" items="49" kicks="39" killed_by="" killed_by_extra="" places_visited="6" playtime="6016.42" playtime_str="1:40:16" projectiles_shot="23567" streaks="0" teleports="1" wands_edited="12" world_seed="20220301" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>

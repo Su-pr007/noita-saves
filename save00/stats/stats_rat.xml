@@ -1,4 +1,4 @@
-<Stats deaths="1299" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1306" kills="38" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="35" >
     </E>
@@ -9,6 +9,8 @@
     <E key="NULL | $damage_fire" value="66" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
+    </E>
+    <E key="NULL | $damage_melee" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="40" >
     </E>
@@ -30,7 +32,7 @@
     </E>
     <E key="bigfirebug | $damage_projectile" value="1" >
     </E>
-    <E key="blob | $damage_melee" value="11" >
+    <E key="blob | $damage_melee" value="14" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
@@ -112,7 +114,7 @@
     </E>
     <E key="slimeshooter | $damage_melee" value="1" >
     </E>
-    <E key="slimeshooter | $damage_projectile" value="48" >
+    <E key="slimeshooter | $damage_projectile" value="51" >
     </E>
     <E key="sniper | $damage_explosion" value="18" >
     </E>

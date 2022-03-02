@@ -1,4 +1,4 @@
-<Stats deaths="21" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="22" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -11,6 +11,8 @@
     <E key="NULL | урон от материала: радиоактивный камень" value="1" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="2" >
+    </E>
+    <E key="fly | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_projectile" value="1" >
     </E>

@@ -1,6 +1,6 @@
-<Stats deaths="135" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="138" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="23" >
+    <E key="NULL | $damage_drowning" value="24" >
     </E>
     <E key="NULL | $damage_explosion" value="18" >
     </E>
@@ -13,6 +13,10 @@
     <E key="NULL | урон от материала: лава" value="1" >
     </E>
     <E key="NULL | урон от материала: радиоактивный камень" value="12" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="1" >
     </E>
     <E key="frog | $damage_melee" value="1" >
     </E>

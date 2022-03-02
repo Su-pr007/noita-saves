@@ -1,8 +1,8 @@
-<Stats deaths="0" kills="331" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="406" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="1" >
+    <E key="acidshooter" value="2" >
     </E>
     <E key="acidshooter_weak" value="1" >
     </E>
@@ -14,9 +14,13 @@
     </E>
     <E key="bigfirebug" value="6" >
     </E>
-    <E key="blob" value="7" >
+    <E key="blob" value="11" >
+    </E>
+    <E key="bloom" value="4" >
     </E>
     <E key="cocktail" value="1" >
+    </E>
+    <E key="coward" value="1" >
     </E>
     <E key="drone_lasership" value="6" >
     </E>
@@ -24,13 +28,13 @@
     </E>
     <E key="firemage_weak" value="1" >
     </E>
-    <E key="fly" value="7" >
+    <E key="fly" value="20" >
     </E>
     <E key="frog" value="8" >
     </E>
     <E key="frog_big" value="2" >
     </E>
-    <E key="fungus" value="3" >
+    <E key="fungus" value="5" >
     </E>
     <E key="giant" value="1" >
     </E>
@@ -40,31 +44,45 @@
     </E>
     <E key="longleg" value="16" >
     </E>
+    <E key="lukki" value="3" >
+    </E>
+    <E key="lukki_eggs" value="2" >
+    </E>
+    <E key="lukki_longleg" value="2" >
+    </E>
+    <E key="lukki_tiny" value="5" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
     <E key="miner" value="15" >
     </E>
     <E key="miner_fire" value="5" >
     </E>
     <E key="miner_weak" value="17" >
     </E>
-    <E key="miniblob" value="44" >
+    <E key="miniblob" value="66" >
     </E>
     <E key="necromancer_shop" value="2" >
     </E>
     <E key="pebble_physics" value="2" >
     </E>
-    <E key="pollen" value="1" >
+    <E key="pollen" value="8" >
     </E>
     <E key="rat" value="4" >
     </E>
     <E key="roboguard" value="1" >
     </E>
-    <E key="scavenger_grenade" value="17" >
+    <E key="root_grower_branch" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="18" >
     </E>
     <E key="scavenger_heal" value="5" >
     </E>
     <E key="scavenger_invis" value="1" >
     </E>
-    <E key="scavenger_smg" value="15" >
+    <E key="scavenger_smg" value="16" >
+    </E>
+    <E key="shooterflower" value="2" >
     </E>
     <E key="shotgunner" value="19" >
     </E>
@@ -72,7 +90,7 @@
     </E>
     <E key="slime" value="33" >
     </E>
-    <E key="slimeshooter" value="6" >
+    <E key="slimeshooter" value="7" >
     </E>
     <E key="slimeshooter_weak" value="3" >
     </E>
@@ -81,6 +99,8 @@
     <E key="tank" value="3" >
     </E>
     <E key="tank_rocket" value="1" >
+    </E>
+    <E key="tentacler" value="2" >
     </E>
     <E key="turret_left" value="1" >
     </E>
