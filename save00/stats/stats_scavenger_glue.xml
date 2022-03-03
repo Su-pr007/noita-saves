@@ -1,14 +1,22 @@
-<Stats deaths="33" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="40" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="3" >
+    <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="2" >
+    <E key="NULL | $damage_explosion" value="5" >
+    </E>
+    <E key="NULL | $damage_fire" value="3" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
     <E key="NULL | урон от материала: замораживающее испарение" value="3" >
     </E>
     <E key="basebot_neutralizer | $damage_projectile" value="2" >
+    </E>
+    <E key="bigzombie | $damage_melee" value="1" >
+    </E>
+    <E key="bigzombietorso | $damage_explosion" value="1" >
+    </E>
+    <E key="black_hole_giga | " value="1" >
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
@@ -21,6 +29,10 @@
   </death_map>
   <kill_map>
     <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombietorso" value="1" >
+    </E>
+    <E key="miniblob" value="6" >
     </E>
     <E key="rat" value="11" >
     </E>

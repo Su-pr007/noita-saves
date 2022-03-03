@@ -1,0 +1,10 @@
+<Stats deaths="11" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="lukki_dark | $damage_curse" value="8" >
+    </E>
+    <E key="worm_big_worm_rain | worm bite" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

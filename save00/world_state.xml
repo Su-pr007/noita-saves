@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="38.2089" 
-    clouds_02_target="46.335" 
+    clouds_01_target="14.5295" 
+    clouds_02_target="-6.80392" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="12" 
+    day_count="16" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -48,20 +48,20 @@
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
     player_polymorph_count="4" 
-    player_polymorph_random_count="6" 
+    player_polymorph_random_count="7" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0" 
-    rain_target="0" 
+    rain="0.177023" 
+    rain_target="0.193618" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.908719" 
+    time="0.014498" 
     time_dt="1" 
-    time_total="12.6307" 
+    time_total="15.7125" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.404271" 
-    wind_speed="-24.2557" 
+    wind="-0.0831067" 
+    wind_speed="-4.98626" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -71,18 +71,30 @@
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="16" >
+        value="20" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="5" >
+        value="6" >
+      </E>
+      <E 
+        key="LUKKI_PERK_TOTAL_COUNT" 
+        value="1" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
         value="8,1 1,-3 -9,7 -8,19 -18,28 -20,5 -1,31 20,31 19,5 6,3 19,-3" >
       </E>
       <E 
+        key="PERK_PICKED_EDIT_WANDS_EVERYWHERE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_EXPLODING_CORPSES_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_LEGGY_FEET_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -106,8 +118,16 @@
         value="-1" >
       </E>
       <E 
+        key="PLAYER_LUKKINESS_LEVEL" 
+        value="1" >
+      </E>
+      <E 
         key="STEVARI_DEATHS" 
         value="3" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_10523" 
+        value="1" >
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_1307" 
@@ -142,6 +162,10 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_LEAKED_0_20" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_LEAKED_0_5" 
         value="1" >
       </E>
@@ -151,7 +175,7 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="16" >
+        value="19" >
       </E>
       <E 
         key="TEMPLE_PERK_REROLL_COUNT" 
@@ -167,11 +191,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_holymountain,$biome_snowcastle,$biome_fungicave,$biome_rainforest,$biome_" >
+        value="$biome_holymountain,$biome_crypt,$biome_vault,$biome_snowcastle,$biome_holymount" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="41" >
+        value="58" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -365,6 +389,87 @@
       </string>
       <string>
         new_action_draw_3_random
+      </string>
+      <string>
+        new_kill_scavenger_mine
+      </string>
+      <string>
+        new_kill_root_grower
+      </string>
+      <string>
+        new_kill_friend_fly
+      </string>
+      <string>
+        new_kill_bigzombiehead
+      </string>
+      <string>
+        new_kill_bigzombietorso
+      </string>
+      <string>
+        new_kill_sheep_fly
+      </string>
+      <string>
+        new_kill_duck
+      </string>
+      <string>
+        new_kill_swarm_fly
+      </string>
+      <string>
+        new_kill_lasershooter
+      </string>
+      <string>
+        new_kill_swarm_wasp
+      </string>
+      <string>
+        new_kill_swarm_firebug
+      </string>
+      <string>
+        new_kill_chest_leggy
+      </string>
+      <string>
+        new_perk_picked_leggy_feet
+      </string>
+      <string>
+        PERK_PICKED_LEGGY_FEET
+      </string>
+      <string>
+        ATTACK_FOOT_CLIMBER
+      </string>
+      <string>
+        PERK_ATTACK_FOOT
+      </string>
+      <string>
+        PERK_EDIT_WANDS_EVERYWHERE
+      </string>
+      <string>
+        PERK_TELEPORTITIS_DODGE
+      </string>
+      <string>
+        new_kill_worm_big_worm_rain
+      </string>
+      <string>
+        new_kill_skullrat
+      </string>
+      <string>
+        new_kill_phantom_a
+      </string>
+      <string>
+        new_kill_skullfly
+      </string>
+      <string>
+        PERK_PICKED_EDIT_WANDS_EVERYWHERE
+      </string>
+      <string>
+        new_kill_dripping_radioactive
+      </string>
+      <string>
+        new_kill_physics_torch_stand
+      </string>
+      <string>
+        new_kill_polyorb
+      </string>
+      <string>
+        new_kill_necromancer
       </string>
     </flags>
     <changed_materials>

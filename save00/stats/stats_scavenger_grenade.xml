@@ -1,12 +1,12 @@
-<Stats deaths="675" kills="192" player_kills="2" player_projectile_count="0" >
+<Stats deaths="704" kills="195" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="11" >
     </E>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="69" >
+    <E key="NULL | $damage_explosion" value="70" >
     </E>
-    <E key="NULL | $damage_fire" value="29" >
+    <E key="NULL | $damage_fire" value="33" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="11" >
     </E>
-    <E key="NULL | $damage_radioactive" value="4" >
+    <E key="NULL | $damage_radioactive" value="8" >
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="3" >
     </E>
@@ -34,19 +34,21 @@
     </E>
     <E key="iceskull | $damage_ice" value="3" >
     </E>
+    <E key="necromancer_super | $damage_projectile" value="1" >
+    </E>
     <E key="pebble_physics | $damage_explosion" value="1" >
     </E>
-    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="13" >
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="20" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="33" >
     </E>
     <E key="player | $damage_electricity" value="11" >
     </E>
-    <E key="player | $damage_explosion" value="83" >
+    <E key="player | $damage_explosion" value="84" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="193" >
+    <E key="player | $damage_projectile" value="201" >
     </E>
     <E key="player | $damage_slice" value="50" >
     </E>
@@ -60,9 +62,11 @@
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_leader | $damage_explosion" value="1" >
+    <E key="scavenger_leader | $damage_explosion" value="2" >
     </E>
     <E key="scavenger_leader | $damage_melee" value="1" >
+    </E>
+    <E key="skullfly | $damage_fire" value="1" >
     </E>
     <E key="sniper | $damage_projectile" value="3" >
     </E>
@@ -74,6 +78,8 @@
     </E>
     <E key="worm_big | worm bite" value="28" >
     </E>
+    <E key="worm_big_worm_rain | worm bite" value="1" >
+    </E>
     <E key="worm_tiny | worm bite" value="5" >
     </E>
   </death_map>
@@ -83,6 +89,8 @@
     <E key="bomb" value="1" >
     </E>
     <E key="drone_lasership" value="1" >
+    </E>
+    <E key="duck" value="1" >
     </E>
     <E key="firebug" value="1" >
     </E>
@@ -112,7 +120,9 @@
     </E>
     <E key="scavenger_leader" value="1" >
     </E>
-    <E key="sheep" value="1" >
+    <E key="sheep" value="2" >
+    </E>
+    <E key="sheep_fly" value="1" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

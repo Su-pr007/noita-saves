@@ -1,18 +1,24 @@
-<Stats deaths="61" kills="18" player_kills="1" player_projectile_count="0" >
+<Stats deaths="81" kills="18" player_kills="1" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="24" >
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="26" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
+    <E key="black_hole_giga | " value="2" >
+    </E>
     <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="1" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="1" >
+    <E key="player | $damage_explosion" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="13" >
+    <E key="player | $damage_projectile" value="15" >
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>
@@ -25,6 +31,8 @@
     <E key="shooterflower | $damage_projectile" value="1" >
     </E>
     <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_big_worm_rain | worm bite" value="6" >
     </E>
   </death_map>
   <kill_map>

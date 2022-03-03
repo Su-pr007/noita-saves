@@ -1,10 +1,12 @@
-<Stats deaths="0" kills="495" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="778" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="2" >
+    <E key="acidshooter" value="4" >
     </E>
     <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="acidshot" value="3" >
     </E>
     <E key="alchemist" value="1" >
     </E>
@@ -14,17 +16,35 @@
     </E>
     <E key="bat" value="23" >
     </E>
+    <E key="bigbat" value="1" >
+    </E>
     <E key="bigfirebug" value="6" >
     </E>
-    <E key="blob" value="11" >
+    <E key="bigzombie" value="3" >
     </E>
-    <E key="bloom" value="8" >
+    <E key="bigzombiehead" value="5" >
+    </E>
+    <E key="bigzombietorso" value="4" >
+    </E>
+    <E key="blob" value="18" >
+    </E>
+    <E key="bloom" value="11" >
+    </E>
+    <E key="chest_leggy" value="1" >
     </E>
     <E key="cocktail" value="1" >
     </E>
-    <E key="coward" value="1" >
+    <E key="coward" value="3" >
     </E>
-    <E key="drone_lasership" value="10" >
+    <E key="dripping_radioactive" value="1" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="drone_lasership" value="13" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="duck" value="19" >
     </E>
     <E key="essence_eater" value="1" >
     </E>
@@ -32,7 +52,11 @@
     </E>
     <E key="firemage_weak" value="1" >
     </E>
-    <E key="fly" value="22" >
+    <E key="fish" value="1" >
+    </E>
+    <E key="fly" value="23" >
+    </E>
+    <E key="friend_fly" value="2" >
     </E>
     <E key="frog" value="8" >
     </E>
@@ -44,63 +68,93 @@
     </E>
     <E key="giantshooter_weak" value="1" >
     </E>
+    <E key="glue" value="1" >
+    </E>
     <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="lasershooter" value="2" >
     </E>
     <E key="longleg" value="16" >
     </E>
-    <E key="lukki" value="3" >
+    <E key="lukki" value="5" >
     </E>
     <E key="lukki_eggs" value="3" >
     </E>
-    <E key="lukki_longleg" value="3" >
+    <E key="lukki_longleg" value="4" >
     </E>
     <E key="lukki_tiny" value="7" >
     </E>
     <E key="mine_scavenger" value="3" >
     </E>
-    <E key="miner" value="19" >
+    <E key="miner" value="21" >
     </E>
     <E key="miner_fire" value="5" >
     </E>
     <E key="miner_weak" value="17" >
     </E>
-    <E key="miniblob" value="66" >
+    <E key="miniblob" value="101" >
+    </E>
+    <E key="monk" value="3" >
+    </E>
+    <E key="necromancer" value="1" >
     </E>
     <E key="necromancer_shop" value="3" >
     </E>
     <E key="pebble_physics" value="2" >
     </E>
-    <E key="phantom_b" value="1" >
+    <E key="phantom_a" value="2" >
+    </E>
+    <E key="phantom_b" value="2" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
     </E>
     <E key="pollen" value="8" >
     </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="potion" value="2" >
+    </E>
     <E key="rat" value="4" >
     </E>
-    <E key="roboguard" value="1" >
+    <E key="roboguard" value="2" >
+    </E>
+    <E key="root_grower" value="1" >
     </E>
     <E key="root_grower_branch" value="1" >
     </E>
-    <E key="scavenger_clusterbomb" value="1" >
+    <E key="scavenger_clusterbomb" value="2" >
     </E>
-    <E key="scavenger_grenade" value="42" >
+    <E key="scavenger_grenade" value="51" >
     </E>
-    <E key="scavenger_heal" value="5" >
+    <E key="scavenger_heal" value="7" >
     </E>
     <E key="scavenger_invis" value="1" >
     </E>
     <E key="scavenger_leader" value="1" >
     </E>
+    <E key="scavenger_mine" value="2" >
+    </E>
     <E key="scavenger_poison" value="3" >
     </E>
-    <E key="scavenger_smg" value="27" >
+    <E key="scavenger_smg" value="34" >
     </E>
     <E key="scorpion" value="1" >
     </E>
-    <E key="shooterflower" value="5" >
+    <E key="sheep" value="23" >
+    </E>
+    <E key="sheep_bat" value="15" >
+    </E>
+    <E key="sheep_fly" value="11" >
+    </E>
+    <E key="shooterflower" value="7" >
     </E>
     <E key="shotgunner" value="21" >
     </E>
     <E key="shotgunner_weak" value="6" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="skullrat" value="5" >
     </E>
     <E key="slime" value="33" >
     </E>
@@ -112,11 +166,19 @@
     </E>
     <E key="sniper" value="9" >
     </E>
-    <E key="tank" value="8" >
+    <E key="swarm_firebug" value="15" >
+    </E>
+    <E key="swarm_fly" value="35" >
+    </E>
+    <E key="swarm_wasp" value="32" >
+    </E>
+    <E key="tank" value="10" >
     </E>
     <E key="tank_rocket" value="2" >
     </E>
-    <E key="tentacler" value="2" >
+    <E key="tentacler" value="3" >
+    </E>
+    <E key="tentacler_small" value="1" >
     </E>
     <E key="turret_left" value="2" >
     </E>
@@ -126,11 +188,13 @@
     </E>
     <E key="wizard_tele" value="1" >
     </E>
-    <E key="wizard_twitchy" value="2" >
+    <E key="wizard_twitchy" value="3" >
     </E>
-    <E key="worm" value="1" >
+    <E key="worm" value="2" >
     </E>
     <E key="worm_big" value="1" >
+    </E>
+    <E key="worm_big_worm_rain" value="1" >
     </E>
     <E key="worm_tiny" value="1" >
     </E>

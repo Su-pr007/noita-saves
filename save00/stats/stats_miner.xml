@@ -1,4 +1,4 @@
-<Stats deaths="267" kills="35" player_kills="0" player_projectile_count="0" >
+<Stats deaths="270" kills="35" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="16" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_radioactive" value="36" >
     </E>
-    <E key="NULL | урон от материала: замораживающее испарение" value="1" >
+    <E key="NULL | урон от материала: замораживающее испарение" value="2" >
     </E>
     <E key="NULL | урон от материала: кислота" value="4" >
     </E>
@@ -36,7 +36,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="58" >
+    <E key="player | $damage_projectile" value="60" >
     </E>
     <E key="player | $damage_slice" value="22" >
     </E>

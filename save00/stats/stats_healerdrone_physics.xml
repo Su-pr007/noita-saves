@@ -1,6 +1,10 @@
-<Stats deaths="2" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="5" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | physics body damaged" value="1" >
+    </E>
+    <E key="drone_physics | $damage_explosion" value="1" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
