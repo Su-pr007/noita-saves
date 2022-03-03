@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="35.5054" 
-    clouds_02_target="40.268" 
+    clouds_01_target="32.7329" 
+    clouds_02_target="34.0462" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="10" 
@@ -55,16 +55,20 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.574606" 
+    time="0.940655" 
     time_dt="1" 
-    time_total="10.3144" 
+    time_total="10.6778" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.26177" 
-    wind_speed="-15.7063" 
+    wind="-0.255099" 
+    wind_speed="-15.306" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
+      <E 
+        key="ESSENCE_LASER_PICKUP_COUNT" 
+        value="0" >
+      </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
         value="16" >
@@ -163,11 +167,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_coalmine,_EMPTY_,$biome_holymountain,$biome_snowcave,$biome_rainforest,_E" >
+        value="_EMPTY_,$biome_pyramid,???,$biome_desert,$biome_coalmine,_EMPTY_,$biome_holymoun" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="27" >
+        value="31" >
       </E>
     </lua_globals>
     <pending_portals>
