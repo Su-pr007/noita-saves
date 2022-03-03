@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="32.7329" 
-    clouds_02_target="34.0462" 
+    clouds_01_target="31.4106" 
+    clouds_02_target="31.0789" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="10" 
+    day_count="11" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.940655" 
+    time="0.221577" 
     time_dt="1" 
-    time_total="10.6778" 
+    time_total="10.9565" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.255099" 
-    wind_speed="-15.306" 
+    wind="-0.237305" 
+    wind_speed="-14.2384" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -335,6 +335,21 @@
       </string>
       <string>
         new_kill_worm_big
+      </string>
+      <string>
+        new_kill_scorpion
+      </string>
+      <string>
+        new_kill_phantom_b
+      </string>
+      <string>
+        new_kill_arrowtrap_left
+      </string>
+      <string>
+        new_kill_slimeshooter_boss_limbs
+      </string>
+      <string>
+        new_kill_boss_limbs
       </string>
     </flags>
     <changed_materials>

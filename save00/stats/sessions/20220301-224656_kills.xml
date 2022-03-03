@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="446" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="452" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -9,6 +9,8 @@
     <E key="alchemist" value="1" >
     </E>
     <E key="ant" value="1" >
+    </E>
+    <E key="arrowtrap_left" value="1" >
     </E>
     <E key="bat" value="22" >
     </E>
@@ -68,6 +70,8 @@
     </E>
     <E key="pebble_physics" value="2" >
     </E>
+    <E key="phantom_b" value="1" >
+    </E>
     <E key="pollen" value="8" >
     </E>
     <E key="rat" value="4" >
@@ -88,6 +92,8 @@
     </E>
     <E key="scavenger_smg" value="18" >
     </E>
+    <E key="scorpion" value="1" >
+    </E>
     <E key="shooterflower" value="5" >
     </E>
     <E key="shotgunner" value="20" >
@@ -97,6 +103,8 @@
     <E key="slime" value="33" >
     </E>
     <E key="slimeshooter" value="7" >
+    </E>
+    <E key="slimeshooter_boss_limbs" value="3" >
     </E>
     <E key="slimeshooter_weak" value="3" >
     </E>
