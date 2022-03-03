@@ -1,4 +1,4 @@
-<Stats deaths="431" kills="213" player_kills="1" player_projectile_count="0" >
+<Stats deaths="433" kills="213" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="23" >
     </E>
@@ -42,6 +42,8 @@
     </E>
     <E key="orb_laseremitter_four | $damage_plasmabeam" value="1" >
     </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
     <E key="plague_rats_rat | $damage_melee" value="9" >
     </E>
     <E key="player | $damage_electricity" value="4" >
@@ -50,7 +52,7 @@
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="97" >
+    <E key="player | $damage_projectile" value="98" >
     </E>
     <E key="player | $damage_slice" value="25" >
     </E>
