@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="31.4106" 
-    clouds_02_target="31.0789" 
+    clouds_01_target="38.7864" 
+    clouds_02_target="47.631" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="11" 
+    day_count="12" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -47,21 +47,21 @@
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
-    player_polymorph_count="3" 
-    player_polymorph_random_count="5" 
+    player_polymorph_count="4" 
+    player_polymorph_random_count="6" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
     rain="0" 
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.221577" 
+    time="0.503061" 
     time_dt="1" 
-    time_total="10.9565" 
+    time_total="12.2279" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.237305" 
-    wind_speed="-14.2384" 
+    wind="-0.406479" 
+    wind_speed="-24.3889" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -167,11 +167,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_pyramid,???,$biome_desert,$biome_coalmine,_EMPTY_,$biome_holymoun" >
+        value="$biome_rainforest,$biome_holymountain,$biome_snowcastle,$biome_snowcave,$biome_e" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="31" >
+        value="38" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -350,6 +350,21 @@
       </string>
       <string>
         new_kill_boss_limbs
+      </string>
+      <string>
+        new_action_nolla
+      </string>
+      <string>
+        new_action_random_static_projectile
+      </string>
+      <string>
+        new_action_draw_random
+      </string>
+      <string>
+        new_action_heavy_bullet_timer
+      </string>
+      <string>
+        new_action_draw_3_random
       </string>
     </flags>
     <changed_materials>
