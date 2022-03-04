@@ -1,14 +1,16 @@
-<Stats deaths="54" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="58" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_electricity" value="1" >
+    <E key="NULL | $damage_electricity" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="6" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="4" >
     </E>
     <E key="NULL | $damage_physicshit" value="18" >
+    </E>
+    <E key="black_hole_giga | " value="1" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="1" >
     </E>
@@ -16,7 +18,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="5" >
+    <E key="player | $damage_projectile" value="6" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
@@ -30,9 +32,15 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="duck" value="2" >
+    </E>
     <E key="pebble_player_physics" value="1" >
     </E>
     <E key="scorpion" value="2" >
+    </E>
+    <E key="sheep" value="3" >
+    </E>
+    <E key="sheep_fly" value="2" >
     </E>
   </kill_map>
 </Stats>

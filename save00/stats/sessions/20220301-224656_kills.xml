@@ -1,8 +1,8 @@
-<Stats deaths="0" kills="495" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="508" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="2" >
+    <E key="acidshooter" value="3" >
     </E>
     <E key="acidshooter_weak" value="1" >
     </E>
@@ -16,6 +16,12 @@
     </E>
     <E key="bigfirebug" value="6" >
     </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="bigzombietorso" value="1" >
+    </E>
     <E key="blob" value="11" >
     </E>
     <E key="bloom" value="8" >
@@ -26,6 +32,8 @@
     </E>
     <E key="drone_lasership" value="10" >
     </E>
+    <E key="drone_physics" value="1" >
+    </E>
     <E key="essence_eater" value="1" >
     </E>
     <E key="firebug" value="10" >
@@ -33,6 +41,8 @@
     <E key="firemage_weak" value="1" >
     </E>
     <E key="fly" value="22" >
+    </E>
+    <E key="friend_fly" value="2" >
     </E>
     <E key="frog" value="8" >
     </E>
@@ -56,7 +66,7 @@
     </E>
     <E key="lukki_tiny" value="7" >
     </E>
-    <E key="mine_scavenger" value="3" >
+    <E key="mine_scavenger" value="4" >
     </E>
     <E key="miner" value="19" >
     </E>
@@ -64,11 +74,13 @@
     </E>
     <E key="miner_weak" value="17" >
     </E>
-    <E key="miniblob" value="66" >
+    <E key="miniblob" value="67" >
     </E>
     <E key="necromancer_shop" value="3" >
     </E>
     <E key="pebble_physics" value="2" >
+    </E>
+    <E key="phantom_a" value="1" >
     </E>
     <E key="phantom_b" value="1" >
     </E>
@@ -96,6 +108,8 @@
     </E>
     <E key="scorpion" value="1" >
     </E>
+    <E key="sheep" value="1" >
+    </E>
     <E key="shooterflower" value="5" >
     </E>
     <E key="shotgunner" value="21" >
@@ -116,7 +130,9 @@
     </E>
     <E key="tank_rocket" value="2" >
     </E>
-    <E key="tentacler" value="2" >
+    <E key="tentacler" value="3" >
+    </E>
+    <E key="tentacler_small" value="1" >
     </E>
     <E key="turret_left" value="2" >
     </E>

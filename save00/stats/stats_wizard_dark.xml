@@ -1,4 +1,4 @@
-<Stats deaths="14" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="16" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -8,11 +8,15 @@
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
+    <E key="bigzombie | $damage_melee" value="1" >
+    </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="roboguard | $damage_melee" value="1" >
     </E>
     <E key="wizard_dark | $damage_explosion" value="1" >
     </E>

@@ -1,8 +1,8 @@
-<Stats deaths="279" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="288" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="73" >
+    <E key="NULL | $damage_explosion" value="74" >
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
@@ -14,13 +14,23 @@
     </E>
     <E key="ant | $damage_melee" value="4" >
     </E>
+    <E key="blob | $damage_melee" value="2" >
+    </E>
     <E key="bloom | $damage_explosion" value="1" >
+    </E>
+    <E key="drone_physics | $damage_explosion" value="1" >
+    </E>
+    <E key="flamer | $damage_explosion" value="1" >
     </E>
     <E key="fly | $damage_melee" value="1" >
     </E>
     <E key="fungus_tiny | $damage_melee" value="1" >
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="2" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="11" >
     </E>
@@ -30,7 +40,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="93" >
+    <E key="player | $damage_projectile" value="94" >
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
@@ -64,9 +74,13 @@
     </E>
     <E key="miner_weak" value="1" >
     </E>
+    <E key="miniblob" value="1" >
+    </E>
     <E key="rat" value="1" >
     </E>
-    <E key="sheep" value="1" >
+    <E key="sheep" value="7" >
+    </E>
+    <E key="sheep_fly" value="1" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>

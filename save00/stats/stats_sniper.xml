@@ -1,8 +1,8 @@
-<Stats deaths="171" kills="206" player_kills="2" player_projectile_count="0" >
+<Stats deaths="176" kills="208" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="7" >
     </E>
     <E key="NULL | $damage_explosion" value="31" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
-    <E key="NULL | $damage_radioactive" value="6" >
+    <E key="NULL | $damage_radioactive" value="7" >
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="4" >
     </E>
@@ -62,6 +62,8 @@
     </E>
     <E key="worm_big | worm bite" value="9" >
     </E>
+    <E key="worm_big_worm_rain | worm bite" value="1" >
+    </E>
     <E key="worm_tiny | worm bite" value="1" >
     </E>
   </death_map>
@@ -71,6 +73,8 @@
     <E key="icemage" value="1" >
     </E>
     <E key="iceskull" value="21" >
+    </E>
+    <E key="mine" value="1" >
     </E>
     <E key="miner" value="1" >
     </E>
@@ -91,6 +95,8 @@
     <E key="scavenger_heal" value="1" >
     </E>
     <E key="scavenger_smg" value="5" >
+    </E>
+    <E key="sheep" value="1" >
     </E>
     <E key="shotgunner" value="4" >
     </E>

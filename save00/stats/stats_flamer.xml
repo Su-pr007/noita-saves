@@ -1,9 +1,17 @@
-<Stats deaths="1" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
   </death_map>
   <kill_map>
+    <E key="dripping_oil" value="1" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="sheep" value="2" >
+    </E>
+    <E key="sheep_bat" value="1" >
+    </E>
     <E key="sniper" value="1" >
     </E>
   </kill_map>
