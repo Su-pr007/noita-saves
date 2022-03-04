@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="37.9146" 
-    clouds_02_target="45.6745" 
+    clouds_01_target="37.2298" 
+    clouds_02_target="44.1378" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="13" 
@@ -55,19 +55,27 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.301622" 
+    time="0.578549" 
     time_dt="1" 
-    time_total="13.0205" 
+    time_total="13.2952" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.383457" 
-    wind_speed="-23.0076" 
+    wind="-0.373837" 
+    wind_speed="-22.4301" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
+        key="BOSS_ARENA_BUILDUP_TRIGGERED" 
+        value="1" >
+      </E>
+      <E 
         key="ESSENCE_LASER_PICKUP_COUNT" 
         value="0" >
+      </E>
+      <E 
+        key="FINAL_BOSS_ARENA_ENTERED" 
+        value="1" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -87,6 +95,10 @@
       </E>
       <E 
         key="PERK_PICKED_EXPLODING_CORPSES_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_EXTRA_HP_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -138,6 +150,10 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_ACTIVE_2233_13078" 
+        value="0" >
+      </E>
+      <E 
         key="TEMPLE_LEAKED_0_12" 
         value="1" >
       </E>
@@ -154,6 +170,10 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_LEAKED_0_25" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_LEAKED_0_5" 
         value="1" >
       </E>
@@ -163,15 +183,15 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="19" >
+        value="22" >
       </E>
       <E 
         key="TEMPLE_PERK_REROLL_COUNT" 
-        value="3" >
+        value="4" >
       </E>
       <E 
         key="TEMPLE_REROLL_PERK_INDEX" 
-        value="103" >
+        value="100" >
       </E>
       <E 
         key="TEMPLE_SPAWN_GUARDIAN" 
@@ -179,11 +199,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_holymountain,$biome_vault,$biome_fungicave,$biome_rainforest,$biome_holym" >
+        value="$biome_boss_arena,_EMPTY_,$biome_crypt,$biome_holymountain,$biome_vault,$biome_f" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="45" >
+        value="48" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -401,6 +421,45 @@
       </string>
       <string>
         new_kill_phantom_a
+      </string>
+      <string>
+        new_kill_arrowtrap_right
+      </string>
+      <string>
+        new_action_bouncy_orb_timer
+      </string>
+      <string>
+        new_kill_polyorb
+      </string>
+      <string>
+        PERK_GENOME_MORE_HATRED
+      </string>
+      <string>
+        PERK_ABILITY_ACTIONS_MATERIALIZED
+      </string>
+      <string>
+        PERK_REPELLING_CAPE
+      </string>
+      <string>
+        new_action_curse_wither_melee
+      </string>
+      <string>
+        new_action_damage_forever
+      </string>
+      <string>
+        new_kill_necromancer_super
+      </string>
+      <string>
+        PERK_EXTRA_HP
+      </string>
+      <string>
+        PERK_HUNGRY_GHOST
+      </string>
+      <string>
+        PERK_ANGRY_GHOST
+      </string>
+      <string>
+        PERK_PICKED_EXTRA_HP
       </string>
     </flags>
     <changed_materials>

@@ -1,4 +1,4 @@
-<Stats deaths="58" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="60" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -12,13 +12,15 @@
     </E>
     <E key="black_hole_giga | " value="1" >
     </E>
+    <E key="necromancer | $damage_melee" value="1" >
+    </E>
     <E key="plague_rats_rat | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_explosion" value="4" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="6" >
+    <E key="player | $damage_projectile" value="7" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
@@ -36,7 +38,7 @@
     </E>
     <E key="pebble_player_physics" value="1" >
     </E>
-    <E key="scorpion" value="2" >
+    <E key="scorpion" value="3" >
     </E>
     <E key="sheep" value="3" >
     </E>

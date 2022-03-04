@@ -1,0 +1,18 @@
+<Stats deaths="7" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | урон от материала: кислота" value="1" >
+    </E>
+    <E key="NULL | урон от материала: лава" value="1" >
+    </E>
+    <E key="necromancer | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="necromancer" value="2" >
+    </E>
+  </kill_map>
+</Stats>
