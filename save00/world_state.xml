@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="59.6772" 
-    clouds_02_target="94.5119" 
+    clouds_01_target="57.6947" 
+    clouds_02_target="90.0629" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="24" 
+    day_count="26" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -51,17 +51,17 @@
     player_polymorph_random_count="6" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.163358" 
-    rain_target="0.168347" 
+    rain="0.00499486" 
+    rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.29467" 
+    time="0.0662566" 
     time_dt="1" 
-    time_total="23.9286" 
+    time_total="25.6866" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.0010256" 
-    wind_speed="0.061537" 
+    wind="-0.130664" 
+    wind_speed="-7.83989" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -99,6 +99,10 @@
       </E>
       <E 
         key="PERK_PICKED_EXTRA_HP_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_MOON_RADAR_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -203,11 +207,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_coalmine,$biome_holymountain,$biome_orbroom,_EMPTY_,$biome_coalmi" >
+        value="_EMPTY_,$biome_pyramid,$biome_desert,$biome_gold,???,_EMPTY_,$biome_fun,$biome_s" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="89" >
+        value="99" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -596,6 +600,15 @@
       </string>
       <string>
         new_kill_worm_big_worm_rain
+      </string>
+      <string>
+        PERK_PICKED_MOON_RADAR
+      </string>
+      <string>
+        new_action_water_trail
+      </string>
+      <string>
+        new_kill_fungus_tiny
       </string>
     </flags>
     <changed_materials>
