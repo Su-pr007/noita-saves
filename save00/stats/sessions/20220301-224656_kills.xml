@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="892" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1020" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -16,7 +16,7 @@
     </E>
     <E key="arrowtrap_right" value="7" >
     </E>
-    <E key="bat" value="24" >
+    <E key="bat" value="25" >
     </E>
     <E key="bigfirebug" value="6" >
     </E>
@@ -40,13 +40,13 @@
     </E>
     <E key="drone_physics" value="2" >
     </E>
-    <E key="duck" value="12" >
+    <E key="duck" value="31" >
     </E>
     <E key="essence_eater" value="1" >
     </E>
-    <E key="failed_alchemist_b" value="2" >
+    <E key="failed_alchemist_b" value="3" >
     </E>
-    <E key="failed_alchemist_orb" value="2" >
+    <E key="failed_alchemist_orb" value="3" >
     </E>
     <E key="firebug" value="10" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="fly" value="23" >
     </E>
-    <E key="friend_fly" value="13" >
+    <E key="friend_fly" value="17" >
     </E>
     <E key="frog" value="8" >
     </E>
@@ -140,11 +140,11 @@
     </E>
     <E key="scorpion" value="2" >
     </E>
-    <E key="sheep" value="13" >
+    <E key="sheep" value="27" >
     </E>
-    <E key="sheep_bat" value="8" >
+    <E key="sheep_bat" value="26" >
     </E>
-    <E key="sheep_fly" value="9" >
+    <E key="sheep_fly" value="38" >
     </E>
     <E key="shooterflower" value="5" >
     </E>
@@ -166,17 +166,17 @@
     </E>
     <E key="sniper" value="9" >
     </E>
-    <E key="spearbot" value="1" >
+    <E key="spearbot" value="2" >
     </E>
     <E key="spittrap_right" value="2" >
     </E>
     <E key="statue_physics" value="1" >
     </E>
-    <E key="swarm_firebug" value="31" >
+    <E key="swarm_firebug" value="43" >
     </E>
-    <E key="swarm_fly" value="63" >
+    <E key="swarm_fly" value="73" >
     </E>
-    <E key="swarm_wasp" value="49" >
+    <E key="swarm_wasp" value="67" >
     </E>
     <E key="tank" value="8" >
     </E>

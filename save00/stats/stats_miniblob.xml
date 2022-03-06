@@ -1,4 +1,4 @@
-<Stats deaths="392" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="397" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="ant | $damage_melee" value="4" >
     </E>
-    <E key="black_hole_giga | " value="4" >
+    <E key="black_hole_giga | " value="8" >
     </E>
     <E key="blob | $damage_melee" value="2" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="wizard_twitchy | $damage_projectile" value="2" >
     </E>
-    <E key="worm_big_worm_rain | worm bite" value="30" >
+    <E key="worm_big_worm_rain | worm bite" value="31" >
     </E>
     <E key="zombie_weak | $damage_melee" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="12" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="13" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="5" >
     </E>
@@ -11,6 +11,8 @@
     <E key="player | bzzt!" value="1" >
     </E>
     <E key="playerghost | $damage_explosion" value="1" >
+    </E>
+    <E key="worm_big_worm_rain | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
