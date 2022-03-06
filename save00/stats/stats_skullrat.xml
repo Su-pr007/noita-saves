@@ -1,6 +1,16 @@
-<Stats deaths="5" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="39" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="black_hole_giga | " value="3" >
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="black_hole_giga | " value="4" >
+    </E>
+    <E key="player | $action_black_hole_giga" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="23" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="worm_big_worm_rain | worm bite" value="4" >
     </E>
     <E key="wraith_glowing | $damage_explosion" value="1" >
     </E>
@@ -8,5 +18,11 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="failed_alchemist_b" value="8" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="scorpion" value="2" >
+    </E>
   </kill_map>
 </Stats>
