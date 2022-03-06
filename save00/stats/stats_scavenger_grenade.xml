@@ -1,10 +1,10 @@
-<Stats deaths="690" kills="192" player_kills="2" player_projectile_count="0" >
+<Stats deaths="700" kills="197" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="11" >
     </E>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="69" >
+    <E key="NULL | $damage_explosion" value="70" >
     </E>
     <E key="NULL | $damage_fire" value="31" >
     </E>
@@ -18,9 +18,9 @@
     </E>
     <E key="NULL | $damage_radioactive" value="5" >
     </E>
-    <E key="NULL | урон от материала: замораживающая жидкость" value="3" >
+    <E key="NULL | урон от материала: замораживающая жидкость" value="4" >
     </E>
-    <E key="NULL | урон от материала: замораживающее испарение" value="27" >
+    <E key="NULL | урон от материала: замораживающее испарение" value="29" >
     </E>
     <E key="NULL | урон от материала: кислота" value="4" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_ice" value="3" >
+    <E key="iceskull | $damage_ice" value="4" >
     </E>
     <E key="lasershooter | $damage_projectile" value="1" >
     </E>
@@ -50,7 +50,9 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="198" >
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="201" >
     </E>
     <E key="player | $damage_slice" value="50" >
     </E>
@@ -61,6 +63,8 @@
     <E key="playerghost | $damage_melee" value="1" >
     </E>
     <E key="rat | $damage_melee" value="2" >
+    </E>
+    <E key="scavenger_grenade | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
@@ -110,9 +114,9 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="104" >
+    <E key="rat" value="108" >
     </E>
-    <E key="scavenger_grenade" value="1" >
+    <E key="scavenger_grenade" value="2" >
     </E>
     <E key="scavenger_leader" value="1" >
     </E>

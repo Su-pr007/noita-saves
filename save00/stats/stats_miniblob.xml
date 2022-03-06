@@ -1,4 +1,4 @@
-<Stats deaths="397" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="403" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="black_hole_giga | " value="8" >
     </E>
-    <E key="blob | $damage_melee" value="2" >
+    <E key="blob | $damage_melee" value="3" >
     </E>
     <E key="bloom | $damage_explosion" value="1" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="necromancer_shop | $damage_projectile" value="1" >
     </E>
-    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="5" >
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="8" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="11" >
     </E>
@@ -61,6 +61,8 @@
     <E key="playerghost | $damage_melee" value="1" >
     </E>
     <E key="roboguard | $damage_melee" value="2" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="2" >
     </E>
     <E key="shooterflower | $damage_projectile" value="3" >
     </E>

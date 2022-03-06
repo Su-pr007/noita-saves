@@ -1,16 +1,16 @@
-<Stats deaths="438" kills="124" player_kills="3" player_projectile_count="0" >
+<Stats deaths="445" kills="125" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="9" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="52" >
+    <E key="NULL | $damage_explosion" value="53" >
     </E>
     <E key="NULL | $damage_fire" value="16" >
     </E>
     <E key="NULL | $damage_ice" value="3" >
     </E>
-    <E key="NULL | $damage_physicshit" value="17" >
+    <E key="NULL | $damage_physicshit" value="18" >
     </E>
     <E key="NULL | $damage_projectile" value="7" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="1" >
     </E>
-    <E key="NULL | урон от материала: замораживающее испарение" value="23" >
+    <E key="NULL | урон от материала: замораживающее испарение" value="25" >
     </E>
     <E key="NULL | урон от материала: кислота" value="2" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_ice" value="4" >
+    <E key="iceskull | $damage_ice" value="5" >
     </E>
     <E key="iceskull | $damage_melee" value="2" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="108" >
+    <E key="player | $damage_projectile" value="109" >
     </E>
     <E key="player | $damage_slice" value="33" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="scavenger_smg | $damage_projectile" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="5" >
+    <E key="sniper | $damage_projectile" value="6" >
     </E>
     <E key="tank | $damage_explosion" value="1" >
     </E>
@@ -104,7 +104,7 @@
     </E>
     <E key="pollen" value="13" >
     </E>
-    <E key="rat" value="87" >
+    <E key="rat" value="88" >
     </E>
     <E key="scavenger_smg" value="1" >
     </E>

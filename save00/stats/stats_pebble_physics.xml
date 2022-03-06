@@ -1,4 +1,4 @@
-<Stats deaths="274" kills="120" player_kills="0" player_projectile_count="0" >
+<Stats deaths="275" kills="120" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="6" >
     </E>
@@ -35,6 +35,8 @@
     <E key="sniper | $damage_projectile" value="1" >
     </E>
     <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+    <E key="wand_ghost_charmed | $damage_projectile" value="1" >
     </E>
   </death_map>
   <kill_map>

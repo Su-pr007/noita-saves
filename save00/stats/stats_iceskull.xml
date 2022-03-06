@@ -1,6 +1,6 @@
-<Stats deaths="185" kills="198" player_kills="1" player_projectile_count="0" >
+<Stats deaths="193" kills="206" player_kills="1" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="23" >
+    <E key="iceskull | $damage_explosion" value="24" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -24,7 +24,9 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="26" >
+    <E key="player | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="27" >
     </E>
     <E key="player | $damage_slice" value="8" >
     </E>
@@ -40,7 +42,7 @@
     </E>
     <E key="scavenger_smg | $damage_projectile" value="8" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="5" >
+    <E key="shotgunner | $damage_projectile" value="8" >
     </E>
     <E key="slimeshooter | $damage_melee" value="1" >
     </E>
@@ -66,7 +68,7 @@
     </E>
     <E key="goblin_bomb" value="1" >
     </E>
-    <E key="iceskull" value="24" >
+    <E key="iceskull" value="25" >
     </E>
     <E key="pebble_physics" value="2" >
     </E>
@@ -78,15 +80,15 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="90" >
+    <E key="rat" value="92" >
     </E>
     <E key="scavenger_glue" value="2" >
     </E>
-    <E key="scavenger_grenade" value="5" >
+    <E key="scavenger_grenade" value="6" >
     </E>
-    <E key="scavenger_smg" value="8" >
+    <E key="scavenger_smg" value="9" >
     </E>
-    <E key="shotgunner" value="17" >
+    <E key="shotgunner" value="20" >
     </E>
     <E key="slimeshooter" value="8" >
     </E>

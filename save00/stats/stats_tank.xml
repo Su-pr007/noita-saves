@@ -1,10 +1,10 @@
-<Stats deaths="87" kills="101" player_kills="0" player_projectile_count="0" >
+<Stats deaths="88" kills="102" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
     <E key="NULL | $damage_explosion" value="25" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="pollen" value="32" >
     </E>
-    <E key="rat" value="48" >
+    <E key="rat" value="49" >
     </E>
     <E key="scavenger_smg" value="1" >
     </E>
