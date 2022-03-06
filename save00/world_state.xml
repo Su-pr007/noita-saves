@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="14.9045" 
-    clouds_02_target="-5.9624" 
+    clouds_01_target="35.3377" 
+    clouds_02_target="39.8916" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="16" 
+    day_count="17" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -51,17 +51,17 @@
     player_polymorph_random_count="6" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.364896" 
-    rain_target="0.369883" 
+    rain="0.610446" 
+    rain_target="0.615439" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.270239" 
+    time="0.854329" 
     time_dt="1" 
-    time_total="15.9662" 
+    time_total="17.5381" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.0797557" 
-    wind_speed="-4.78537" 
+    wind="-0.0312256" 
+    wind_speed="-1.87353" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -199,11 +199,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_crypt,$biome_holymountain,$biome_lava,$biome_boss_arena,_EMPTY_,$" >
+        value="$biome_tower,???,$biome_orbroom,$biome_vault,_EMPTY_,$biome_crypt,$biome_holymou" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="52" >
+        value="56" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -514,6 +514,24 @@
       </string>
       <string>
         new_kill_necromancer
+      </string>
+      <string>
+        new_kill_lasershooter
+      </string>
+      <string>
+        new_kill_firemage
+      </string>
+      <string>
+        new_kill_scavenger_shield
+      </string>
+      <string>
+        new_action_circle_shape
+      </string>
+      <string>
+        new_action_crumbling_earth
+      </string>
+      <string>
+        new_kill_chest_leggy
       </string>
     </flags>
     <changed_materials>

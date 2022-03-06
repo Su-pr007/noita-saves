@@ -1,12 +1,14 @@
-<Stats deaths="288" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="387" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="5" >
+    <E key="NULL | $damage_drowning" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="74" >
+    <E key="NULL | $damage_electricity" value="22" >
+    </E>
+    <E key="NULL | $damage_explosion" value="77" >
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
-    <E key="NULL | $damage_physicshit" value="9" >
+    <E key="NULL | $damage_physicshit" value="14" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -14,11 +16,15 @@
     </E>
     <E key="ant | $damage_melee" value="4" >
     </E>
+    <E key="black_hole_giga | " value="4" >
+    </E>
     <E key="blob | $damage_melee" value="2" >
     </E>
     <E key="bloom | $damage_explosion" value="1" >
     </E>
-    <E key="drone_physics | $damage_explosion" value="1" >
+    <E key="drone_physics | $damage_explosion" value="5" >
+    </E>
+    <E key="drone_physics | $damage_projectile" value="2" >
     </E>
     <E key="flamer | $damage_explosion" value="1" >
     </E>
@@ -28,11 +34,13 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
-    <E key="miniblob | $damage_melee" value="1" >
+    <E key="miniblob | $damage_melee" value="2" >
     </E>
-    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="2" >
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="5" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="11" >
+    </E>
+    <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_explosion" value="4" >
     </E>
@@ -40,7 +48,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="94" >
+    <E key="player | $damage_projectile" value="107" >
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
@@ -56,11 +64,21 @@
     </E>
     <E key="sniper | $damage_melee" value="3" >
     </E>
+    <E key="thundermage | $damage_electricity" value="3" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="3" >
+    </E>
+    <E key="thundermage | $damage_melee" value="1" >
+    </E>
     <E key="turret_right | $damage_projectile" value="2" >
     </E>
     <E key="wizard_dark | $damage_explosion" value="2" >
     </E>
     <E key="wizard_dark | $damage_projectile" value="2" >
+    </E>
+    <E key="wizard_twitchy | $damage_projectile" value="2" >
+    </E>
+    <E key="worm_big_worm_rain | worm bite" value="30" >
     </E>
     <E key="zombie_weak | $damage_melee" value="2" >
     </E>
@@ -74,7 +92,7 @@
     </E>
     <E key="miner_weak" value="1" >
     </E>
-    <E key="miniblob" value="1" >
+    <E key="miniblob" value="2" >
     </E>
     <E key="rat" value="1" >
     </E>

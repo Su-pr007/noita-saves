@@ -1,8 +1,8 @@
-<Stats deaths="12" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="2" >
     </E>
-    <E key="NULL | урон от материала: кислота" value="1" >
+    <E key="NULL | урон от материала: кислота" value="2" >
     </E>
     <E key="NULL | урон от материала: лава" value="1" >
     </E>
@@ -10,13 +10,15 @@
     </E>
     <E key="player | $damage_projectile" value="4" >
     </E>
-    <E key="skullrat | $damage_melee" value="1" >
+    <E key="skullrat | $damage_melee" value="2" >
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
     <E key="acidshooter" value="3" >
+    </E>
+    <E key="duck" value="1" >
     </E>
     <E key="necromancer" value="2" >
     </E>

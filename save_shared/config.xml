@@ -4,7 +4,7 @@
   application_rendered_cursor="0" 
   audio_effects_volume="1" 
   audio_fmod="1" 
-  audio_music_volume="0.8" 
+  audio_music_volume="0" 
   backbuffer_height="768" 
   backbuffer_width="1366" 
   check_for_updates="1" 
