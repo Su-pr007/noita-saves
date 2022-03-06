@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="35.9203" 
-    clouds_02_target="41.199" 
+    clouds_01_target="33.9524" 
+    clouds_02_target="36.7831" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="13" 
+    day_count="14" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.862657" 
+    time="0.418782" 
     time_dt="1" 
-    time_total="13.5773" 
+    time_total="14.129" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.294556" 
-    wind_speed="-17.6732" 
+    wind="-0.143051" 
+    wind_speed="-8.58308" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -79,11 +79,11 @@
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="20" >
+        value="25" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="6" >
+        value="7" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
@@ -199,11 +199,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_boss_arena,_EMPTY_,$biome_crypt,$biome_holymountain,$biome_vault,$biome_f" >
+        value="$biome_holymountain,$biome_lava,$biome_boss_arena,_EMPTY_,$biome_crypt,$biome_ho" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="48" >
+        value="50" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -466,6 +466,15 @@
       </string>
       <string>
         new_kill_swarm_firebug
+      </string>
+      <string>
+        new_kill_swarm_wasp
+      </string>
+      <string>
+        new_kill_sheep_fly
+      </string>
+      <string>
+        new_kill_duck
       </string>
     </flags>
     <changed_materials>
