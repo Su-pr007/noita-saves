@@ -1,10 +1,10 @@
-<Stats deaths="1339" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1343" kills="38" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="35" >
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="80" >
+    <E key="NULL | $damage_explosion" value="83" >
     </E>
     <E key="NULL | $damage_fire" value="66" >
     </E>
@@ -142,7 +142,7 @@
     </E>
     <E key="thundermage | $damage_electricity" value="9" >
     </E>
-    <E key="thundermage | $damage_explosion" value="21" >
+    <E key="thundermage | $damage_explosion" value="22" >
     </E>
     <E key="thundermage | $damage_melee" value="1" >
     </E>

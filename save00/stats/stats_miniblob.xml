@@ -1,4 +1,4 @@
-<Stats deaths="403" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="409" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
-    <E key="NULL | $damage_physicshit" value="14" >
+    <E key="NULL | $damage_physicshit" value="15" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="107" >
+    <E key="player | $damage_projectile" value="109" >
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
@@ -63,6 +63,8 @@
     <E key="roboguard | $damage_melee" value="2" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="2" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
     </E>
     <E key="shooterflower | $damage_projectile" value="3" >
     </E>
@@ -84,13 +86,15 @@
     </E>
     <E key="wizard_twitchy | $damage_projectile" value="2" >
     </E>
-    <E key="worm_big_worm_rain | worm bite" value="31" >
+    <E key="worm_big_worm_rain | worm bite" value="33" >
     </E>
     <E key="zombie_weak | $damage_melee" value="2" >
     </E>
   </death_map>
   <kill_map>
     <E key="ant" value="2" >
+    </E>
+    <E key="duck" value="1" >
     </E>
     <E key="firemage_weak" value="1" >
     </E>
@@ -104,7 +108,7 @@
     </E>
     <E key="sheep" value="7" >
     </E>
-    <E key="sheep_fly" value="1" >
+    <E key="sheep_fly" value="2" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>

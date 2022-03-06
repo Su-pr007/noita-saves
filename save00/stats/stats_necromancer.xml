@@ -1,4 +1,4 @@
-<Stats deaths="15" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="15" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="2" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="scorpion" value="1" >
     </E>
-    <E key="sheep" value="1" >
+    <E key="sheep" value="2" >
     </E>
     <E key="sheep_bat" value="1" >
     </E>

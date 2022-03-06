@@ -1,4 +1,4 @@
-<Stats deaths="182" kills="220" player_kills="2" player_projectile_count="0" >
+<Stats deaths="183" kills="223" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
-    <E key="NULL | $damage_radioactive" value="8" >
+    <E key="NULL | $damage_radioactive" value="9" >
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="4" >
     </E>
@@ -94,7 +94,7 @@
     </E>
     <E key="rat" value="132" >
     </E>
-    <E key="scavenger_grenade" value="3" >
+    <E key="scavenger_grenade" value="5" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
@@ -104,7 +104,7 @@
     </E>
     <E key="shotgunner" value="4" >
     </E>
-    <E key="slimeshooter" value="18" >
+    <E key="slimeshooter" value="19" >
     </E>
     <E key="sniper" value="1" >
     </E>

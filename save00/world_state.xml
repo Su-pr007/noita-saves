@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="61.0867" 
-    clouds_02_target="97.6748" 
+    clouds_01_target="59.6772" 
+    clouds_02_target="94.5119" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="21" 
+    day_count="24" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -47,21 +47,21 @@
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
-    player_polymorph_count="4" 
+    player_polymorph_count="5" 
     player_polymorph_random_count="6" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.0587551" 
-    rain_target="0.0537712" 
+    rain="0.163358" 
+    rain_target="0.168347" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.967876" 
+    time="0.29467" 
     time_dt="1" 
-    time_total="21.6199" 
+    time_total="23.9286" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.0398984" 
-    wind_speed="-2.39393" 
+    wind="0.0010256" 
+    wind_speed="0.061537" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -123,7 +123,7 @@
       </E>
       <E 
         key="STEVARI_DEATHS" 
-        value="4" >
+        value="5" >
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_10523" 
@@ -139,7 +139,7 @@
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_4891" 
-        value="1" >
+        value="0" >
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_6427" 
@@ -152,6 +152,10 @@
       <E 
         key="TEMPLE_ACTIVE_2233_13078" 
         value="0" >
+      </E>
+      <E 
+        key="TEMPLE_COLLAPSED_0_9" 
+        value="1" >
       </E>
       <E 
         key="TEMPLE_LEAKED_0_12" 
@@ -199,11 +203,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_vault,$biome_holymountain,$biome_desert,_EMPTY_,$biome_rainforest,$biome_" >
+        value="_EMPTY_,$biome_coalmine,$biome_holymountain,$biome_orbroom,_EMPTY_,$biome_coalmi" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="74" >
+        value="89" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -556,6 +560,42 @@
       </string>
       <string>
         new_kill_skycrystal_physics
+      </string>
+      <string>
+        new_kill_firetrap_right
+      </string>
+      <string>
+        new_action_spitter_tier_2_timer
+      </string>
+      <string>
+        new_kill_dripping_radioactive
+      </string>
+      <string>
+        new_kill_dripping_oil
+      </string>
+      <string>
+        new_kill_flamer
+      </string>
+      <string>
+        new_kill_boss_pit
+      </string>
+      <string>
+        new_action_disc_bullet_bigger
+      </string>
+      <string>
+        new_action_gamma
+      </string>
+      <string>
+        new_action_grenade_tier_3
+      </string>
+      <string>
+        new_action_meteor_rain
+      </string>
+      <string>
+        new_action_worm_rain
+      </string>
+      <string>
+        new_kill_worm_big_worm_rain
       </string>
     </flags>
     <changed_materials>
