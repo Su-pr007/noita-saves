@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="35.3377" 
-    clouds_02_target="39.8916" 
+    clouds_01_target="44.2459" 
+    clouds_02_target="59.8826" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="17" 
+    day_count="18" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -51,17 +51,17 @@
     player_polymorph_random_count="6" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.610446" 
-    rain_target="0.615439" 
+    rain="0.245417" 
+    rain_target="0.240419" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.854329" 
+    time="0.563394" 
     time_dt="1" 
-    time_total="17.5381" 
+    time_total="18.2415" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.0312256" 
-    wind_speed="-1.87353" 
+    wind="-0.103694" 
+    wind_speed="-6.22173" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -123,7 +123,7 @@
       </E>
       <E 
         key="STEVARI_DEATHS" 
-        value="3" >
+        value="4" >
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_10523" 
@@ -532,6 +532,21 @@
       </string>
       <string>
         new_kill_chest_leggy
+      </string>
+      <string>
+        new_kill_lavashot
+      </string>
+      <string>
+        new_kill_statue_physics
+      </string>
+      <string>
+        new_kill_fungus_giga
+      </string>
+      <string>
+        new_kill_spearbot
+      </string>
+      <string>
+        new_kill_giantshooter
       </string>
     </flags>
     <changed_materials>

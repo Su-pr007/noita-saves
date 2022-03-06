@@ -1,4 +1,4 @@
-<Stats deaths="262" kills="111" player_kills="0" player_projectile_count="0" >
+<Stats deaths="274" kills="120" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="6" >
     </E>
@@ -10,11 +10,11 @@
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="5" >
     </E>
-    <E key="NULL | урон от материала: замораживающее испарение" value="67" >
+    <E key="NULL | урон от материала: замораживающее испарение" value="69" >
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="pebble_physics | $damage_explosion" value="110" >
+    <E key="pebble_physics | $damage_explosion" value="119" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
@@ -34,9 +34,11 @@
     </E>
     <E key="sniper | $damage_projectile" value="1" >
     </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
   </death_map>
   <kill_map>
-    <E key="pebble_physics" value="110" >
+    <E key="pebble_physics" value="119" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

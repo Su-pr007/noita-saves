@@ -1,8 +1,10 @@
-<Stats deaths="8" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="9" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
     <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | урон от материала: лава" value="1" >
     </E>
     <E key="player | $damage_projectile" value="1" >
     </E>
@@ -29,6 +31,8 @@
     <E key="slimeshooter" value="3" >
     </E>
     <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wolf" value="1" >
     </E>
   </kill_map>
 </Stats>

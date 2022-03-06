@@ -1,4 +1,4 @@
-<Stats deaths="177" kills="208" player_kills="2" player_projectile_count="0" >
+<Stats deaths="178" kills="211" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
-    <E key="NULL | $damage_radioactive" value="7" >
+    <E key="NULL | $damage_radioactive" value="8" >
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="4" >
     </E>
@@ -68,6 +68,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="bigzombie" value="1" >
+    </E>
     <E key="blob" value="1" >
     </E>
     <E key="icemage" value="1" >
@@ -88,6 +90,8 @@
     </E>
     <E key="pollen" value="13" >
     </E>
+    <E key="polyorb" value="1" >
+    </E>
     <E key="rat" value="126" >
     </E>
     <E key="scavenger_grenade" value="3" >
@@ -107,6 +111,8 @@
     <E key="thundermage" value="2" >
     </E>
     <E key="worm_tiny" value="2" >
+    </E>
+    <E key="zombie" value="1" >
     </E>
   </kill_map>
 </Stats>

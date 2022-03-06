@@ -1,4 +1,4 @@
-<Stats deaths="138" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="139" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="24" >
     </E>
@@ -55,6 +55,8 @@
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
     </E>
     <E key="worm | worm bite" value="6" >
     </E>

@@ -1,12 +1,16 @@
-<Stats deaths="14" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="18" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
     <E key="NULL | $damage_explosion" value="3" >
     </E>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | урон от материала: кислота" value="1" >
+    </E>
+    <E key="NULL | урон от материала: радиоактивный камень" value="1" >
+    </E>
+    <E key="chest_mimic | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
@@ -14,7 +18,7 @@
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
-    <E key="worm_big_worm_rain | worm bite" value="1" >
+    <E key="worm_big_worm_rain | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>
