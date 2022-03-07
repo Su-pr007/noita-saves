@@ -1,10 +1,16 @@
-<Stats deaths="4" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="9" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_water" value="2" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="4" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_projectile" value="2" >
     </E>
   </death_map>
   <kill_map>
+    <E key="ghost_crystal" value="1" >
+    </E>
   </kill_map>
 </Stats>

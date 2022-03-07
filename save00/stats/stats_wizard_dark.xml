@@ -1,4 +1,4 @@
-<Stats deaths="20" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="22" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_melee" value="1" >
+    <E key="player | $damage_melee" value="3" >
     </E>
     <E key="player | $damage_projectile" value="2" >
     </E>
@@ -33,6 +33,8 @@
     <E key="physics_ragdoll_ai" value="1" >
     </E>
     <E key="rat" value="3" >
+    </E>
+    <E key="scorpion" value="1" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>

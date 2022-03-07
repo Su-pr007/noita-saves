@@ -1,0 +1,22 @@
+<Stats deaths="34" kills="4" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="orb_laseremitter_four | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="28" >
+    </E>
+    <E key="wand_ghost_player | $damage_explosion" value="1" >
+    </E>
+    <E key="wand_ghost_player | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="propane_tank" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+    <E key="wand_ghost_player" value="2" >
+    </E>
+  </kill_map>
+</Stats>

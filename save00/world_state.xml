@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="53.4608" 
-    clouds_02_target="80.5616" 
+    clouds_01_target="47.9251" 
+    clouds_02_target="68.1389" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="27" 
+    day_count="28" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.269889" 
+    time="0.754382" 
     time_dt="1" 
-    time_total="26.8808" 
+    time_total="28.3538" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.148055" 
-    wind_speed="-8.88336" 
+    wind="-0.203085" 
+    wind_speed="-12.1853" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -206,12 +206,16 @@
         value="1" >
       </E>
       <E 
+        key="ULTIMATE_KILLER_KILLS" 
+        value="14" >
+      </E>
+      <E 
         key="visited_biomes" 
-        value="$biome_excavationsite,$biome_fungicave,_EMPTY_,???,$biome_wandcave,$biome_snowca" >
+        value="_EMPTY_,$biome_holymountain,$biome_ghost_secret,_EMPTY_,$biome_winter_caves,$bio" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="108" >
+        value="122" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -224,6 +228,9 @@
     <npc_parties>
     </npc_parties>
     <orbs_found_thisrun>
+      <primitive>
+        5
+      </primitive>
     </orbs_found_thisrun>
     <flags>
       <string>
@@ -615,6 +622,42 @@
       </string>
       <string>
         new_kill_enlightened_alchemist
+      </string>
+      <string>
+        new_kill_ultimate_killer
+      </string>
+      <string>
+        new_kill_friend
+      </string>
+      <string>
+        new_kill_barfer
+      </string>
+      <string>
+        new_kill_wizard_homing
+      </string>
+      <string>
+        new_kill_wizard_swapper
+      </string>
+      <string>
+        new_action_powerdigger
+      </string>
+      <string>
+        new_action_material_blood
+      </string>
+      <string>
+        new_action_freezing_gaze
+      </string>
+      <string>
+        new_kill_lukki_dark
+      </string>
+      <string>
+        new_kill_snowcrystal
+      </string>
+      <string>
+        new_kill_ghost_crystal
+      </string>
+      <string>
+        new_kill_thundermage_big
       </string>
     </flags>
     <changed_materials>
