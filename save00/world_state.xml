@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="33.713" 
-    clouds_02_target="36.2457" 
+    clouds_01_target="42.9359" 
+    clouds_02_target="56.9428" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="30" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.111265" 
+    time="0.819772" 
     time_dt="1" 
-    time_total="29.7003" 
+    time_total="30.4033" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.0785576" 
-    wind_speed="4.71352" 
+    wind="0.158227" 
+    wind_speed="9.49366" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -211,11 +211,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_winter,_EMPTY_,$biome_wizardcave,$biome_rainforest_dark,$biome_crypt,_EMP" >
+        value="$biome_winter,_EMPTY_,$biome_desert,$biome_boss_victoryroom,$biome_winter,_EMPTY" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="127" >
+        value="131" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -667,6 +667,18 @@
       </string>
       <string>
         new_kill_crystal_physics
+      </string>
+      <string>
+        new_action_omega
+      </string>
+      <string>
+        new_action_black_hole_giga
+      </string>
+      <string>
+        new_action_duplicate
+      </string>
+      <string>
+        new_action_reset
       </string>
     </flags>
     <changed_materials>

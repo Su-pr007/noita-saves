@@ -1,4 +1,4 @@
-<Stats deaths="24" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="26" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -12,11 +12,13 @@
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_melee" value="1" >
+    <E key="player | $damage_melee" value="2" >
     </E>
     <E key="player | $damage_projectile" value="3" >
     </E>
     <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>

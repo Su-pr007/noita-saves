@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1506" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1512" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -180,7 +180,7 @@
     </E>
     <E key="sheep" value="34" >
     </E>
-    <E key="sheep_bat" value="42" >
+    <E key="sheep_bat" value="43" >
     </E>
     <E key="sheep_fly" value="54" >
     </E>
@@ -218,7 +218,7 @@
     </E>
     <E key="statue_physics" value="2" >
     </E>
-    <E key="swarm_firebug" value="59" >
+    <E key="swarm_firebug" value="63" >
     </E>
     <E key="swarm_fly" value="112" >
     </E>
@@ -264,7 +264,7 @@
     </E>
     <E key="wizard_swapper" value="1" >
     </E>
-    <E key="wizard_tele" value="3" >
+    <E key="wizard_tele" value="4" >
     </E>
     <E key="wizard_twitchy" value="7" >
     </E>
