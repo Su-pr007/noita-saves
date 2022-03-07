@@ -1,10 +1,10 @@
-<Stats deaths="193" kills="206" player_kills="1" player_projectile_count="0" >
+<Stats deaths="202" kills="212" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="21" >
+    <E key="NULL | $damage_explosion" value="22" >
     </E>
     <E key="NULL | $damage_physicshit" value="16" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="24" >
+    <E key="iceskull | $damage_explosion" value="26" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -24,9 +24,9 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_melee" value="2" >
+    <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="27" >
+    <E key="player | $damage_projectile" value="31" >
     </E>
     <E key="player | $damage_slice" value="8" >
     </E>
@@ -40,7 +40,7 @@
     </E>
     <E key="scavenger_smg | $damage_melee" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="8" >
+    <E key="scavenger_smg | $damage_projectile" value="9" >
     </E>
     <E key="shotgunner | $damage_projectile" value="8" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="goblin_bomb" value="1" >
     </E>
-    <E key="iceskull" value="25" >
+    <E key="iceskull" value="27" >
     </E>
     <E key="pebble_physics" value="2" >
     </E>
@@ -80,13 +80,13 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="92" >
+    <E key="rat" value="94" >
     </E>
     <E key="scavenger_glue" value="2" >
     </E>
-    <E key="scavenger_grenade" value="6" >
+    <E key="scavenger_grenade" value="7" >
     </E>
-    <E key="scavenger_smg" value="9" >
+    <E key="scavenger_smg" value="10" >
     </E>
     <E key="shotgunner" value="20" >
     </E>

@@ -1,10 +1,10 @@
-<Stats deaths="452" kills="125" player_kills="3" player_projectile_count="0" >
+<Stats deaths="463" kills="127" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="11" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="54" >
+    <E key="NULL | $damage_explosion" value="55" >
     </E>
     <E key="NULL | $damage_fire" value="16" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_ice" value="5" >
+    <E key="iceskull | $damage_ice" value="6" >
     </E>
     <E key="iceskull | $damage_melee" value="2" >
     </E>
@@ -50,11 +50,11 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_melee" value="1" >
+    <E key="player | $damage_melee" value="6" >
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="111" >
+    <E key="player | $damage_projectile" value="115" >
     </E>
     <E key="player | $damage_slice" value="33" >
     </E>
@@ -98,7 +98,7 @@
   <kill_map>
     <E key="firebug" value="1" >
     </E>
-    <E key="iceskull" value="9" >
+    <E key="iceskull" value="10" >
     </E>
     <E key="pebble_player_physics" value="4" >
     </E>
@@ -108,7 +108,7 @@
     </E>
     <E key="pollen" value="13" >
     </E>
-    <E key="rat" value="88" >
+    <E key="rat" value="89" >
     </E>
     <E key="scavenger_smg" value="1" >
     </E>

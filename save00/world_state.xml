@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="57.6947" 
-    clouds_02_target="90.0629" 
+    clouds_01_target="53.4608" 
+    clouds_02_target="80.5616" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="26" 
+    day_count="27" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.0662566" 
+    time="0.269889" 
     time_dt="1" 
-    time_total="25.6866" 
+    time_total="26.8808" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.130664" 
-    wind_speed="-7.83989" 
+    wind="-0.148055" 
+    wind_speed="-8.88336" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -207,11 +207,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_pyramid,$biome_desert,$biome_gold,???,_EMPTY_,$biome_fun,$biome_s" >
+        value="$biome_excavationsite,$biome_fungicave,_EMPTY_,???,$biome_wandcave,$biome_snowca" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="99" >
+        value="108" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -609,6 +609,12 @@
       </string>
       <string>
         new_kill_fungus_tiny
+      </string>
+      <string>
+        new_kill_wand_ghost
+      </string>
+      <string>
+        new_kill_enlightened_alchemist
       </string>
     </flags>
     <changed_materials>

@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Apr 23 2021-18:44:24" >
-  <stats biomes_visited_with_wands="20" damage_taken="178.667" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="950" gold="11824" gold_all="21084" gold_infinite="0" healed="17.15" heart_containers="0" hp="100" items="118" kicks="64" killed_by="" killed_by_extra="" places_visited="20" playtime="17241.2" playtime_str="4:47:21" projectiles_shot="162728" streaks="0" teleports="7" wands_edited="23" world_seed="20220301" >
+  <stats biomes_visited_with_wands="21" damage_taken="181.154" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1085" gold="11824" gold_all="21084" gold_infinite="0" healed="17.15" heart_containers="0" hp="100" items="123" kicks="64" killed_by="" killed_by_extra="" places_visited="21" playtime="18044" playtime_str="5:00:43" projectiles_shot="167391" streaks="0" teleports="8" wands_edited="24" world_seed="20220301" >
   </stats>
   <biome_baseline biomes_visited_with_wands="12" damage_taken="65.9171" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="381" gold="908" gold_all="10168" gold_infinite="0" healed="15.2" heart_containers="0" hp="100" items="77" kicks="45" killed_by="" killed_by_extra="" places_visited="12" playtime="8885.63" playtime_str="2:28:05" projectiles_shot="95854" streaks="0" teleports="1" wands_edited="12" world_seed="20220301" >
   </biome_baseline>
@@ -41,6 +41,8 @@
     <E key="$biome_tower" value="1" >
     </E>
     <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
     </E>
     <E key="$biome_winter" value="1" >
     </E>

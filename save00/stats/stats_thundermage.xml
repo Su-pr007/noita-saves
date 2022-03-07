@@ -1,4 +1,4 @@
-<Stats deaths="16" kills="49" player_kills="0" player_projectile_count="0" >
+<Stats deaths="18" kills="52" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
@@ -6,7 +6,9 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="6" >
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="7" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -26,9 +28,9 @@
     </E>
     <E key="monk" value="1" >
     </E>
-    <E key="pebble_physics" value="1" >
+    <E key="pebble_physics" value="2" >
     </E>
-    <E key="rat" value="32" >
+    <E key="rat" value="34" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
