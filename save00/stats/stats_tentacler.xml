@@ -1,4 +1,4 @@
-<Stats deaths="34" kills="12" player_kills="1" player_projectile_count="0" >
+<Stats deaths="35" kills="12" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
@@ -17,6 +17,8 @@
     <E key="player | $damage_slice" value="7" >
     </E>
     <E key="skullfly | $damage_fire" value="1" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
     </E>
   </death_map>
   <kill_map>
