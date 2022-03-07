@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="34.7287" 
-    clouds_02_target="38.525" 
+    clouds_01_target="33.713" 
+    clouds_02_target="36.2457" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="29" 
+    day_count="30" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.553579" 
+    time="0.111265" 
     time_dt="1" 
-    time_total="29.1467" 
+    time_total="29.7003" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.00883654" 
-    wind_speed="-0.530192" 
+    wind="0.0785576" 
+    wind_speed="4.71352" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -211,11 +211,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_crypt,_EMPTY_,$biome_holymountain,$biome_ghost_secret,_EMPTY_,$biome_wint" >
+        value="$biome_winter,_EMPTY_,$biome_wizardcave,$biome_rainforest_dark,$biome_crypt,_EMP" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="123" >
+        value="127" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -664,6 +664,9 @@
       </string>
       <string>
         new_kill_drone
+      </string>
+      <string>
+        new_kill_crystal_physics
       </string>
     </flags>
     <changed_materials>
