@@ -1,16 +1,16 @@
-<Stats deaths="995" kills="45" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1006" kills="46" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="25" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="53" >
+    <E key="NULL | $damage_explosion" value="54" >
     </E>
-    <E key="NULL | $damage_fire" value="98" >
+    <E key="NULL | $damage_fire" value="100" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="34" >
+    <E key="NULL | $damage_physicshit" value="37" >
     </E>
     <E key="NULL | урон от материала: кислота" value="2" >
     </E>
@@ -74,7 +74,7 @@
     </E>
     <E key="shotgunner_weak | $damage_melee" value="24" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="149" >
+    <E key="shotgunner_weak | $damage_projectile" value="151" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_projectile" value="2" >
     </E>
@@ -82,9 +82,11 @@
     </E>
     <E key="slimeshooter_weak | $damage_projectile" value="24" >
     </E>
-    <E key="worm | worm bite" value="15" >
+    <E key="worm | worm bite" value="16" >
     </E>
-    <E key="zombie_weak | $damage_melee" value="2" >
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="3" >
     </E>
     <E key="zombie_weak | sprays" value="1" >
     </E>
@@ -102,7 +104,7 @@
     </E>
     <E key="slimeshooter_weak" value="8" >
     </E>
-    <E key="zombie_weak" value="3" >
+    <E key="zombie_weak" value="4" >
     </E>
   </kill_map>
 </Stats>

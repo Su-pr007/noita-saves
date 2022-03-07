@@ -1,6 +1,8 @@
-<Stats deaths="9" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="11" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_water" value="2" >
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_water" value="3" >
     </E>
     <E key="lukki_dark | $damage_curse" value="4" >
     </E>
@@ -11,6 +13,8 @@
   </death_map>
   <kill_map>
     <E key="ghost_crystal" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
     </E>
   </kill_map>
 </Stats>

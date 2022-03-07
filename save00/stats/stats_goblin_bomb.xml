@@ -1,10 +1,10 @@
-<Stats deaths="83" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="85" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_explosion" value="19" >
     </E>
-    <E key="NULL | $damage_physicshit" value="4" >
+    <E key="NULL | $damage_physicshit" value="5" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="bigfirebug | $damage_fire" value="1" >
     </E>
-    <E key="firebug | $damage_melee" value="1" >
+    <E key="firebug | $damage_melee" value="2" >
     </E>
     <E key="goblin_bomb | $damage_explosion" value="5" >
     </E>

@@ -1,20 +1,20 @@
-<Stats deaths="189" kills="223" player_kills="2" player_projectile_count="0" >
+<Stats deaths="197" kills="226" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="33" >
+    <E key="NULL | $damage_explosion" value="35" >
     </E>
     <E key="NULL | $damage_fire" value="12" >
     </E>
-    <E key="NULL | $damage_physicshit" value="10" >
+    <E key="NULL | $damage_physicshit" value="12" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
-    <E key="NULL | $damage_radioactive" value="9" >
+    <E key="NULL | $damage_radioactive" value="10" >
     </E>
-    <E key="NULL | урон от материала: замораживающая жидкость" value="4" >
+    <E key="NULL | урон от материала: замораживающая жидкость" value="5" >
     </E>
     <E key="NULL | урон от материала: замораживающее испарение" value="6" >
     </E>
@@ -25,6 +25,8 @@
     <E key="drone_lasership | $damage_projectile" value="2" >
     </E>
     <E key="flamer | $damage_explosion" value="1" >
+    </E>
+    <E key="icemage | $damage_explosion" value="1" >
     </E>
     <E key="iceskull | $damage_explosion" value="1" >
     </E>
@@ -44,7 +46,7 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="33" >
+    <E key="player | $damage_projectile" value="34" >
     </E>
     <E key="player | $damage_slice" value="10" >
     </E>
@@ -76,13 +78,13 @@
     </E>
     <E key="icemage" value="1" >
     </E>
-    <E key="iceskull" value="21" >
+    <E key="iceskull" value="22" >
     </E>
     <E key="mine" value="1" >
     </E>
     <E key="miner" value="1" >
     </E>
-    <E key="miniblob" value="3" >
+    <E key="miniblob" value="5" >
     </E>
     <E key="pebble_physics" value="1" >
     </E>

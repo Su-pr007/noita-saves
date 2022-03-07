@@ -1,12 +1,14 @@
-<Stats deaths="278" kills="30" player_kills="0" player_projectile_count="0" >
+<Stats deaths="294" kills="30" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="55" >
+    <E key="NULL | $damage_explosion" value="27" >
     </E>
-    <E key="NULL | $damage_physicshit" value="25" >
+    <E key="NULL | $damage_fire" value="59" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="26" >
     </E>
     <E key="NULL | урон от материала: замораживающее испарение" value="1" >
     </E>
@@ -17,6 +19,8 @@
     <E key="NULL | урон от материала: радиоактивный газ" value="1" >
     </E>
     <E key="NULL | урон от материала: радиоактивный камень" value="1" >
+    </E>
+    <E key="firebug | $damage_fire" value="1" >
     </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
@@ -47,6 +51,8 @@
     <E key="shotgunner | $damage_projectile" value="3" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="4" >
+    </E>
+    <E key="thundermage_big | $damage_explosion" value="1" >
     </E>
   </death_map>
   <kill_map>

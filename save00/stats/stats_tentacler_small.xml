@@ -1,14 +1,16 @@
-<Stats deaths="56" kills="13" player_kills="0" player_projectile_count="0" >
+<Stats deaths="62" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="7" >
+    <E key="NULL | $damage_explosion" value="8" >
     </E>
     <E key="NULL | $damage_fire" value="4" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | урон от материала: Проклятый камень" value="1" >
     </E>
     <E key="NULL | урон от материала: кислота" value="1" >
     </E>
@@ -20,13 +22,15 @@
     </E>
     <E key="drone_physics | $damage_projectile" value="1" >
     </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    </E>
     <E key="fly | $damage_melee" value="1" >
     </E>
     <E key="iceskull | $damage_ice" value="1" >
     </E>
     <E key="phantom_a | $damage_projectile" value="2" >
     </E>
-    <E key="player | $damage_melee" value="5" >
+    <E key="player | $damage_melee" value="7" >
     </E>
     <E key="player | $damage_projectile" value="10" >
     </E>
@@ -40,6 +44,8 @@
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>
+    <E key="thundermage_big | $damage_explosion" value="1" >
+    </E>
     <E key="wizard_hearty | $damage_projectile" value="1" >
     </E>
     <E key="worm_big_worm_rain | worm bite" value="5" >
@@ -52,7 +58,7 @@
     </E>
     <E key="rat" value="4" >
     </E>
-    <E key="scorpion" value="6" >
+    <E key="scorpion" value="7" >
     </E>
     <E key="skullrat" value="1" >
     </E>
