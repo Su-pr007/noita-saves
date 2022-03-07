@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1512" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1602" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -48,11 +48,11 @@
     </E>
     <E key="drone" value="1" >
     </E>
-    <E key="drone_lasership" value="11" >
+    <E key="drone_lasership" value="12" >
     </E>
     <E key="drone_physics" value="3" >
     </E>
-    <E key="duck" value="35" >
+    <E key="duck" value="36" >
     </E>
     <E key="enlightened_alchemist" value="1" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="friend" value="1" >
     </E>
-    <E key="friend_fly" value="30" >
+    <E key="friend_fly" value="35" >
     </E>
     <E key="frog" value="8" >
     </E>
@@ -178,9 +178,9 @@
     </E>
     <E key="scorpion" value="2" >
     </E>
-    <E key="sheep" value="34" >
+    <E key="sheep" value="36" >
     </E>
-    <E key="sheep_bat" value="43" >
+    <E key="sheep_bat" value="44" >
     </E>
     <E key="sheep_fly" value="54" >
     </E>
@@ -218,11 +218,11 @@
     </E>
     <E key="statue_physics" value="2" >
     </E>
-    <E key="swarm_firebug" value="63" >
+    <E key="swarm_firebug" value="83" >
     </E>
-    <E key="swarm_fly" value="112" >
+    <E key="swarm_fly" value="137" >
     </E>
-    <E key="swarm_wasp" value="147" >
+    <E key="swarm_wasp" value="182" >
     </E>
     <E key="tank" value="11" >
     </E>

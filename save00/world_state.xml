@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="42.9359" 
-    clouds_02_target="56.9428" 
+    clouds_01_target="59.6069" 
+    clouds_02_target="94.354" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="30" 
+    day_count="31" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.819772" 
+    time="0.767667" 
     time_dt="1" 
-    time_total="30.4033" 
+    time_total="31.3438" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.158227" 
-    wind_speed="9.49366" 
+    wind="0.172129" 
+    wind_speed="10.3278" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -211,11 +211,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_winter,_EMPTY_,$biome_desert,$biome_boss_victoryroom,$biome_winter,_EMPTY" >
+        value="???,$biome_winter,_EMPTY_,$biome_desert,$biome_boss_victoryroom,$biome_winter,_E" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="131" >
+        value="132" >
       </E>
     </lua_globals>
     <pending_portals>
