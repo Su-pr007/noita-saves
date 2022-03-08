@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="60.7513" 
-    clouds_02_target="96.9223" 
+    clouds_01_target="60.8665" 
+    clouds_02_target="97.1808" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="36" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.241679" 
+    time="0.268008" 
     time_dt="1" 
-    time_total="36.0743" 
+    time_total="36.1024" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.0767951" 
-    wind_speed="4.60734" 
+    wind="0.0728717" 
+    wind_speed="4.37231" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -91,6 +91,10 @@
       </E>
       <E 
         key="PERK_NO_MORE_SHUFFLE_WANDS" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_ANGRY_LEVITATION_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -974,6 +978,9 @@
       </string>
       <string>
         PERK_PICKED_CRITICAL_HIT
+      </string>
+      <string>
+        PERK_PICKED_ANGRY_LEVITATION
       </string>
     </flags>
     <changed_materials>

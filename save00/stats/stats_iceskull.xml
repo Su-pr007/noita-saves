@@ -1,4 +1,4 @@
-<Stats deaths="212" kills="231" player_kills="1" player_projectile_count="0" >
+<Stats deaths="212" kills="233" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -84,7 +84,7 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="100" >
+    <E key="rat" value="102" >
     </E>
     <E key="scavenger_glue" value="6" >
     </E>

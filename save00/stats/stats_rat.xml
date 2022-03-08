@@ -1,4 +1,4 @@
-<Stats deaths="1418" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1420" kills="38" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="35" >
     </E>
@@ -54,9 +54,9 @@
     </E>
     <E key="goblin_bomb | $damage_melee" value="7" >
     </E>
-    <E key="iceskull | $damage_explosion" value="16" >
+    <E key="iceskull | $damage_explosion" value="17" >
     </E>
-    <E key="iceskull | $damage_ice" value="56" >
+    <E key="iceskull | $damage_ice" value="57" >
     </E>
     <E key="iceskull | $damage_melee" value="28" >
     </E>
