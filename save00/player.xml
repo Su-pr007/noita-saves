@@ -2,7 +2,7 @@
   _version="1" 
   name="DEBUG_NAME:player" 
   serialize="1" 
-  tags="hittable,mortal,human,prey,peasant,player_unit,teleportable" >
+  tags="hittable,mortal,prey,human,peasant,player_unit,teleportable" >
   <_Transform 
     position.x="-36117.1" 
     position.y="4954.04" 
@@ -378,100 +378,103 @@
         $biome_ghost_secret
       </string>
       <string>
-        east $biome_lake
+        east$biome_lake
       </string>
       <string>
-        east $biome_winter
+        east$biome_winter
       </string>
       <string>
-        east $biome_winter_caves
+        east$biome_winter_caves
       </string>
       <string>
-        east $biome_vault_frozen
+        east$biome_vault_frozen
       </string>
       <string>
-        east $biome_orbroom
+        east$biome_orbroom
       </string>
       <string>
-        east $biome_coalmine
+        east$biome_coalmine
       </string>
       <string>
-        east $biome_holymountain
+        east$biome_holymountain
       </string>
       <string>
-        east $biome_excavationsite
+        east$biome_excavationsite
       </string>
       <string>
-        east $biome_snowcave
+        east$biome_snowcave
       </string>
       <string>
-        east $biome_snowcastle
+        east$biome_snowcastle
       </string>
       <string>
-        east $biome_rainforest
+        east$biome_rainforest
       </string>
       <string>
-        east $biome_fungicave
+        east$biome_fungicave
       </string>
       <string>
-        east $biome_vault
+        east$biome_vault
       </string>
       <string>
-        east $biome_crypt
+        east$biome_crypt
       </string>
       <string>
-        east $biome_boss_arena
+        east$biome_boss_arena
       </string>
       <string>
-        east $biome_dragoncave
+        east$biome_dragoncave
       </string>
       <string>
-        east $biome_desert
+        east$biome_desert
       </string>
       <string>
-        east $biome_tower
+        east$biome_tower
       </string>
       <string>
-        east ???
+        east???
       </string>
       <string>
-        east $biome_sandcave
+        east$biome_sandcave
       </string>
       <string>
-        east $biome_pyramid
+        east$biome_pyramid
       </string>
       <string>
-        east $biome_gold
+        east$biome_gold
       </string>
       <string>
-        east $biome_boss_victoryroom
+        east$biome_boss_victoryroom
       </string>
       <string>
         $biome_lake
       </string>
       <string>
-        west ???
+        west???
       </string>
       <string>
-        west $biome_gold
+        west$biome_gold
       </string>
       <string>
-        west $biome_desert
+        west$biome_desert
       </string>
       <string>
-        west $biome_pyramid
+        west$biome_pyramid
       </string>
       <string>
-        west $biome_coalmine
+        west$biome_coalmine
+      </string>
+      <string>
+        west$biome_holymountain
+      </string>
+      <string>
+        west$biome_excavationsite
+      </string>
+      <string>
+        west$biome_snowcave
       </string>
       <string>
         west $biome_holymountain
-      </string>
-      <string>
-        west $biome_excavationsite
-      </string>
-      <string>
-        west $biome_snowcave
       </string>
     </mVisitiedBiomes>
   </GameLogComponent>
@@ -643,7 +646,7 @@
     execute_on_added="0" 
     execute_on_removed="0" 
     execute_times="0" 
-    mLastExecutionFrame="1441441" 
+    mLastExecutionFrame="1441672" 
     mModAppendsDone="1" 
     remove_after_executed="0" 
     script_audio_event_dead="" 
@@ -717,7 +720,7 @@
     execute_on_added="0" 
     execute_on_removed="0" 
     execute_times="0" 
-    mLastExecutionFrame="1441502" 
+    mLastExecutionFrame="1441674" 
     mModAppendsDone="1" 
     remove_after_executed="0" 
     script_audio_event_dead="" 
@@ -1003,8 +1006,8 @@
     next_rect_animation="" 
     offset_animator_offset.x="0" 
     offset_animator_offset.y="0" 
-    offset_x="-50.4461" 
-    offset_y="29.3981" 
+    offset_x="-46.2618" 
+    offset_y="39.069" 
     rect_animation="" 
     smooth_filtering="0" 
     special_scale_x="1" 
@@ -1778,8 +1781,8 @@
     limit_to_max_velocity="1" 
     liquid_death_threshold="0" 
     liquid_drag="1" 
-    mVelocity.x="-0.00390625" 
-    mVelocity.y="0" 
+    mVelocity.x="0" 
+    mVelocity.y="0.13623" 
     mass="0.05" 
     terminal_velocity="1000" 
     updates_velocity="0" >
@@ -1798,8 +1801,8 @@
     tags="player_arm_r" >
     <_Transform 
       position.x="-36120.1" 
-      position.y="4948.04" 
-      rotation="-0.224296" 
+      position.y="4947.04" 
+      rotation="-0.34739" 
       scale.x="1" 
       scale.y="1" >
     </_Transform>
@@ -1865,7 +1868,7 @@
     tags="" >
     <_Transform 
       position.x="-36118.1" 
-      position.y="4947.04" 
+      position.y="4946.04" 
       rotation="0" 
       scale.x="1" 
       scale.y="1" >
@@ -1897,16 +1900,16 @@
       cloth_color_edge="ff9a6f9b" 
       cloth_sprite_z_index="0.7" 
       collide_with_cells="1" 
-      colors="AAAAAADFAAAAAADFAAAAAADFAAAAAADFAAAAAADFAAAAAADFAAAAAAEHAAAAAADFFBBKGKECAAAAAAEHAAAAAAAAAAAAAABJAAAAAACCAAAAAACGAAAAAACIAAAAAACKABAAACCOAGABAJCIBHAHBPCAAAAAAAAAAAAAAAAAAAAAAAANAAAAAABGAAAAAABLAAAAAABNAAAAAABPABAAABCAADAAAFBNAGABAJBGAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAPAAAAAABDAAAAAABFAAAAAABHAAAAAABHABAAABBHABAAACBLAAAAAADFAAAAAAAAAAAAAAAHAAAAAAAMAAAAAAAPAAAAAABAAAAAAABBAAAAAABAAAAAAAAPAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAMAAAAAAANAAAAAAANAAAAAAANAAAAAAAMAAAAAAAKAAAAAAAGAAAAAAAAAAAAAADFAAAAAABHAAAAAABAAAAAAAANAAAAAAAMAAAAAAALAAAAAAAKAAAAAAAIAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAAAAABAAAAAAAAOAAAAAAAMAAAAAAALAAAAAAAKAAAAAAAIAAAAAAAEAAAAAAAAAAAAAADFAAAAAABKAAAAAABDAAAAAAAPAAAAAAANAAAAAAAMAAAAAAALAAAAAAAKABAAAAAHAAAAAAAAAAAAAAAAAAAAAABDAAAAAABDAAAAAABAAAAAAAAPAAAAAAAOAAAAAAAPACAAAABAAEAAAAAPAAAAAAAAAAAAAADFAAAAAACAAAAAAABHAAAAAABCAAAAAABBAAAAAABBABAAAABEAFAAAABJAPAAAACGCNAAAAFHAAAAAADFAAAAAACDAAAAAABIAAAAAABDAAAAAABCAAAAAABEABAAAABHAEAAAABLAGAAAABKAAAAAAAAAAAAAADFAAAAAACBAAAAAABGAAAAAABBAAAAAABCAAAAAABHACAAAABKAGAAAACDAGAAAACKAAAAAADFAAAAAADFAAAAAABJAAAAAAAOAAAAAAALAAAAAAAOABAAAABMAEAAAABIAPAAAACNAPAAAADGCJAAAAEOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADFAAAAAAAACEAAAAEEAAAAAADFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" 
+      colors="AAAAAADFAAAAAADFAAAAAADFAAAAAADFAAAAAADFAAAAAADFAAAAAAEHAAAAAADFFBBKGKECAAAAAAEHAAAAAAAAAAAAAABJAAAAAACCAAAAAACGAAAAAACIAAAAAACKABAAACCNAGABAJCHBHAHBPBPAAAAAAAAAAAAAAAAAAAAAAANAAAAAABGAAAAAABLAAAAAABNAAAAAABPABAAABBPADAAAFBMAGABAJBFAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAPAAAAAABDAAAAAABFAAAAAABGAAAAAABGABAAABBGABAAACBKAAAAAADFAAAAAAAAAAAAAAAHAAAAAAAMAAAAAAAPAAAAAABAAAAAAABAAAAAAAAPAAAAAAAOAAAAAAALAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAMAAAAAAANAAAAAAANAAAAAAAMAAAAAAALAAAAAAAJAAAAAAAGAAAAAAAAAAAAAADFAAAAAABHAAAAAAAPAAAAAAANAAAAAAALAAAAAAAKAAAAAAAJAAAAAAAHAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAPAAAAAAANAAAAAAALAAAAAAAKAAAAAAAJAAAAAAAHAAAAAAAEAAAAAAAAAAAAAADFAAAAAABKAAAAAABCAAAAAAAOAAAAAAAMAAAAAAALAAAAAAALAAAAAAAKABAAAAAHAAAAAAAAAAAAAAAAAAAAAABDAAAAAABDAAAAAABAAAAAAAAOAAAAAAAOAAAAAAAPACAAAABAAEAAAAAPAAAAAAAAAAAAAADFAAAAAACAAAAAAABHAAAAAABCAAAAAABAAAAAAABBABAAAABDAFAAAABIAPAAAACGCNAAAAFHAAAAAADFAAAAAACDAAAAAABIAAAAAABCAAAAAABBAAAAAABDABAAAABGAEAAAABKAGAAAABKAAAAAAAAAAAAAADFAAAAAACBAAAAAABFAAAAAABAAAAAAABAAAAAAABFACAAAABJAGAAAACCAGAAAACJAAAAAADFAAAAAADFAAAAAABJAAAAAAAOAAAAAAAKAAAAAAANABAAAABLAEAAAABIAPAAAACNAPAAAADGCJAAAAEOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADFAAAAAAAACEAAAAEEAAAAAADFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" 
       constrain_stretching="1" 
       follow_entity_transform="1" 
       gets_entity_velocity_coeff="0" 
       m_is_culled_previous="0" 
       m_position_previous.x="-36118.1" 
-      m_position_previous.y="4947.04" 
+      m_position_previous.y="4946.04" 
       mass_max="0.2" 
       mass_min="0.1" 
-      materials="water,water,water,water,water,water,oil,water_fading,poison,oil,,,,,,,,,,,,water,water,water,water_ice,water_ice,,,,,,water,,,,,,,,water,,,water,water,water,,,,,,,,water,,water,water,,,,,water,water,,water,water,,,,,,,water,,water,water,water,,,,,water,,water,,,,,,,,,water,water,water,,,,,,,water,,water_ice,,water,,water,,,blood,water,,water,water,,water,,,,,water,water,,water,water,,,,,water,water,water,water,water,water,water_ice,,blood,,blood,,,,,,water,,blood,water,,,,,,,,,,,," 
+      materials="water,water,water,water,water,water,oil,water_fading,poison,oil,,,,,,,,,,,,water,water,water,water_ice,water_ice,,,,,,water,,,,,,,,water,,,water,water,water,,,,,,,,water,,water,water,,,,,water,water,,water,water,,,,,,,water,,water,water,water,,,,,water,,water,,,,,,,,,water,water,water,,,,,,,water,,water_ice,,water,,water,,,blood,water,,water,water,,water,,,,,water,,,water,water,,,,,water,water,water,water,water,water,water_ice,,blood,,blood,,,,,,water,,blood,water,,,,,,,,,,,," 
       num_links="300" 
       num_points="150" 
       pixelate_sprite_transforms="1" 
@@ -1941,8 +1944,8 @@
       tags="teleportable_NOT,wand,item" >
       <_Transform 
         position.x="-36115.5" 
-        position.y="4948.62" 
-        rotation="-0.320423" 
+        position.y="4947.11" 
+        rotation="-0.496272" 
         scale.x="1" 
         scale.y="1" >
       </_Transform>
@@ -2136,7 +2139,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="983386" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -2147,7 +2150,7 @@
         remove_on_death="0" 
         remove_on_death_if_empty="0" 
         spawn_pos.x="-36115.5" 
-        spawn_pos.y="4948.61" 
+        spawn_pos.y="4947.11" 
         stats_count_as_item_pick_up="1" 
         ui_description="" 
         ui_display_description_on_pick_up_hint="0" 
@@ -2188,7 +2191,7 @@
         is_text_sprite="0" 
         kill_entity_after_finished="0" 
         never_ragdollify_on_death="0" 
-        next_rect_animation="default" 
+        next_rect_animation="" 
         offset_animator_offset.x="0" 
         offset_animator_offset.y="0" 
         offset_x="0" 
@@ -2230,8 +2233,8 @@
         serialize="1" 
         tags="card_action" >
         <_Transform 
-          position.x="-35910" 
-          position.y="5018.27" 
+          position.x="-36117.1" 
+          position.y="4954.18" 
           rotation="0" 
           scale.x="1" 
           scale.y="1" >
@@ -2281,7 +2284,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="0" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="1" 
           play_hover_animation="0" 
@@ -2291,8 +2294,8 @@
           remove_default_child_actions_on_death="0" 
           remove_on_death="0" 
           remove_on_death_if_empty="0" 
-          spawn_pos.x="-35910" 
-          spawn_pos.y="5018.27" 
+          spawn_pos.x="-36117.1" 
+          spawn_pos.y="4954.18" 
           stats_count_as_item_pick_up="1" 
           ui_description="" 
           ui_display_description_on_pick_up_hint="0" 
@@ -2400,7 +2403,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1002.26" 
+          x_phase_offset="-2244.38" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2411,7 +2414,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1002.26" 
+          x_phase_offset="-2244.38" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2422,7 +2425,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1002.26" 
+          x_phase_offset="-2244.38" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2433,7 +2436,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1002.26" 
+          x_phase_offset="-2244.38" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2463,8 +2466,8 @@
         serialize="1" 
         tags="card_action" >
         <_Transform 
-          position.x="-35910" 
-          position.y="5018.27" 
+          position.x="-36117.1" 
+          position.y="4954.18" 
           rotation="0" 
           scale.x="1" 
           scale.y="1" >
@@ -2514,7 +2517,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="439518" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -2524,8 +2527,8 @@
           remove_default_child_actions_on_death="0" 
           remove_on_death="0" 
           remove_on_death_if_empty="0" 
-          spawn_pos.x="-35910" 
-          spawn_pos.y="5018.27" 
+          spawn_pos.x="-36117.1" 
+          spawn_pos.y="4954.18" 
           stats_count_as_item_pick_up="1" 
           ui_description="" 
           ui_display_description_on_pick_up_hint="0" 
@@ -2633,7 +2636,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1002.26" 
+          x_phase_offset="-2244.38" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2644,7 +2647,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1002.26" 
+          x_phase_offset="-2244.38" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2655,7 +2658,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1002.26" 
+          x_phase_offset="-2244.38" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2666,7 +2669,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1002.26" 
+          x_phase_offset="-2244.38" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2696,9 +2699,9 @@
         serialize="1" 
         tags="card_action" >
         <_Transform 
-          position.x="-36107.9" 
-          position.y="4946.08" 
-          rotation="-0.322948" 
+          position.x="-36108.5" 
+          position.y="4943.3" 
+          rotation="-0.496469" 
           scale.x="1" 
           scale.y="1" >
         </_Transform>
@@ -2764,7 +2767,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="0" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -2774,8 +2777,8 @@
           remove_default_child_actions_on_death="0" 
           remove_on_death="0" 
           remove_on_death_if_empty="0" 
-          spawn_pos.x="-36107.9" 
-          spawn_pos.y="4946.08" 
+          spawn_pos.x="-36108.5" 
+          spawn_pos.y="4943.3" 
           stats_count_as_item_pick_up="1" 
           ui_description="" 
           ui_display_description_on_pick_up_hint="0" 
@@ -2896,7 +2899,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="863.22" 
+          x_phase_offset="-2256.74" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2907,7 +2910,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="863.22" 
+          x_phase_offset="-2256.74" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2918,7 +2921,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="863.22" 
+          x_phase_offset="-2256.74" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -2929,7 +2932,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="863.22" 
+          x_phase_offset="-2256.74" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -3280,7 +3283,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1104142" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -3632,7 +3635,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="887013" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="886864" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -3787,7 +3790,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -3798,7 +3801,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -3809,7 +3812,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -3820,7 +3823,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -3901,7 +3904,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="0" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -4020,7 +4023,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4031,7 +4034,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4042,7 +4045,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4053,7 +4056,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4134,7 +4137,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="439644" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -4253,7 +4256,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4264,7 +4267,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4275,7 +4278,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4286,7 +4289,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="999.713" 
+          x_phase_offset="-2242.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4513,7 +4516,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="958061" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -4675,7 +4678,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="739897" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -4794,7 +4797,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.239" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4805,7 +4808,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.239" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4816,7 +4819,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.239" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4827,7 +4830,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.239" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -4978,7 +4981,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="732901" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -5097,7 +5100,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5108,7 +5111,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5119,7 +5122,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5130,7 +5133,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5228,7 +5231,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="0" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -5413,7 +5416,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5424,7 +5427,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5435,7 +5438,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5446,7 +5449,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5544,7 +5547,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="291180" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -5765,7 +5768,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5776,7 +5779,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5787,7 +5790,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5798,7 +5801,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -5879,7 +5882,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="0" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -5998,7 +6001,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6009,7 +6012,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6020,7 +6023,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6031,7 +6034,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6112,7 +6115,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="351870" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -6231,7 +6234,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6242,7 +6245,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6253,7 +6256,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6264,7 +6267,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6362,7 +6365,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="729632" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -6481,7 +6484,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6492,7 +6495,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6503,7 +6506,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6514,7 +6517,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6682,7 +6685,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="0" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -6867,7 +6870,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6878,7 +6881,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6889,7 +6892,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6900,7 +6903,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.642" 
+          x_phase_offset="-2256.39" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -6981,7 +6984,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="1216700" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -7136,7 +7139,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7147,7 +7150,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7158,7 +7161,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7169,7 +7172,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2251.93" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7396,7 +7399,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1325589" 
         max_child_items="0" 
-        next_frame_pickable="1324757" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -7541,7 +7544,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="0" 
           max_child_items="0" 
-          next_frame_pickable="1262647" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -7660,7 +7663,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2243.13" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7671,7 +7674,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2243.13" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7682,7 +7685,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2243.13" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7693,7 +7696,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1001.49" 
+          x_phase_offset="-2243.13" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7774,7 +7777,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="1325791" 
           max_child_items="0" 
-          next_frame_pickable="1325554" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -7893,7 +7896,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1000.84" 
+          x_phase_offset="-2243.13" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7904,7 +7907,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1000.84" 
+          x_phase_offset="-2243.13" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7915,7 +7918,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1000.84" 
+          x_phase_offset="-2243.13" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -7926,7 +7929,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="1000.84" 
+          x_phase_offset="-2243.13" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8024,7 +8027,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="1325915" 
           max_child_items="0" 
-          next_frame_pickable="1325568" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -8222,7 +8225,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.286" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8233,7 +8236,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.286" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8244,7 +8247,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.286" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8255,7 +8258,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.286" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8353,7 +8356,7 @@
           item_pickup_radius="14.1" 
           mFramePickedUp="1325749" 
           max_child_items="0" 
-          next_frame_pickable="1325581" 
+          next_frame_pickable="1441518" 
           npc_next_frame_pickable="0" 
           permanently_attached="0" 
           play_hover_animation="0" 
@@ -8587,7 +8590,7 @@
           sprite_id="0" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.286" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8598,7 +8601,7 @@
           sprite_id="1" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.286" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8609,7 +8612,7 @@
           sprite_id="2" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.286" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8620,7 +8623,7 @@
           sprite_id="3" 
           x_amount="0" 
           x_phase="16" 
-          x_phase_offset="864.286" 
+          x_phase_offset="-2256.83" 
           x_speed="0" 
           y_amount="1" 
           y_speed="2.5" >
@@ -8649,7 +8652,7 @@
       _version="1" 
       name="" 
       serialize="1" 
-      tags="hittable,teleportable_NOT,item_physics,item_pickup" >
+      tags="item_physics,hittable,teleportable_NOT,item_pickup" >
       <_Transform 
         position.x="-36117.1" 
         position.y="4954.04" 
@@ -8994,7 +8997,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1075505" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="194922" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -9490,7 +9493,7 @@
       _version="1" 
       name="" 
       serialize="1" 
-      tags="hittable,teleportable_NOT,item_physics,item_pickup,potion" >
+      tags="item_physics,hittable,teleportable_NOT,item_pickup,potion" >
       <_Transform 
         position.x="-36117.1" 
         position.y="4954.04" 
@@ -9835,7 +9838,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="201664" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="31778" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -10377,7 +10380,7 @@
       _version="1" 
       name="" 
       serialize="1" 
-      tags="hittable,teleportable_NOT,item_physics,item_pickup,potion" >
+      tags="item_physics,hittable,teleportable_NOT,item_pickup,potion" >
       <_Transform 
         position.x="-36117.1" 
         position.y="4954.04" 
@@ -10706,7 +10709,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="81687" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -11310,7 +11313,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="804709" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -11429,7 +11432,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -11440,7 +11443,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -11451,7 +11454,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -11462,7 +11465,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -11543,7 +11546,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1202724" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -11698,7 +11701,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -11709,7 +11712,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -11720,7 +11723,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -11731,7 +11734,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -11829,7 +11832,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="729709" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -12132,7 +12135,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="368721" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -12287,7 +12290,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12298,7 +12301,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12309,7 +12312,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12320,7 +12323,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12401,7 +12404,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1291703" 
         max_child_items="0" 
-        next_frame_pickable="1290493" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -12556,7 +12559,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2219.31" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12567,7 +12570,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2219.31" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12578,7 +12581,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2219.31" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12589,7 +12592,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2219.31" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12670,7 +12673,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="0" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -12789,7 +12792,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12800,7 +12803,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12811,7 +12814,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12822,7 +12825,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -12903,7 +12906,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1382402" 
         max_child_items="0" 
-        next_frame_pickable="1380071" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -13058,7 +13061,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2312.19" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13069,7 +13072,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2312.19" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13080,7 +13083,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2312.19" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13091,7 +13094,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2312.19" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13172,7 +13175,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1096075" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -13291,7 +13294,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13302,7 +13305,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13313,7 +13316,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13324,7 +13327,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13422,7 +13425,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="0" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -13620,7 +13623,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="864.239" 
+        x_phase_offset="0.5" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13631,7 +13634,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="864.239" 
+        x_phase_offset="0.5" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13642,7 +13645,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="864.239" 
+        x_phase_offset="0.5" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13653,7 +13656,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="864.239" 
+        x_phase_offset="0.5" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13804,7 +13807,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1203560" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -13959,7 +13962,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13970,7 +13973,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13981,7 +13984,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -13992,7 +13995,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14073,7 +14076,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1315816" 
         max_child_items="0" 
-        next_frame_pickable="1315268" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -14192,7 +14195,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2393.25" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14203,7 +14206,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2393.25" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14214,7 +14217,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2393.25" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14225,7 +14228,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="2393.25" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14323,7 +14326,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1210374" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -14671,7 +14674,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="0" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -14790,7 +14793,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14801,7 +14804,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14812,7 +14815,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14823,7 +14826,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="863.794" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -14904,7 +14907,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="0" 
         max_child_items="0" 
-        next_frame_pickable="1262647" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -15023,7 +15026,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="1001.49" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -15034,7 +15037,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="1001.49" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -15045,7 +15048,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="1001.49" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -15056,7 +15059,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="1001.49" 
+        x_phase_offset="-2257.32" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -15154,7 +15157,7 @@
         item_pickup_radius="14.1" 
         mFramePickedUp="1441455" 
         max_child_items="0" 
-        next_frame_pickable="1438928" 
+        next_frame_pickable="1441518" 
         npc_next_frame_pickable="0" 
         permanently_attached="0" 
         play_hover_animation="0" 
@@ -15375,7 +15378,7 @@
         sprite_id="0" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="-2257.39" 
+        x_phase_offset="0" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -15386,7 +15389,7 @@
         sprite_id="1" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="-2257.39" 
+        x_phase_offset="0" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -15397,7 +15400,7 @@
         sprite_id="2" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="-2257.39" 
+        x_phase_offset="0" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -15408,7 +15411,7 @@
         sprite_id="3" 
         x_amount="0" 
         x_phase="16" 
-        x_phase_offset="-2257.39" 
+        x_phase_offset="0" 
         x_speed="0" 
         y_amount="1" 
         y_speed="2.5" >
@@ -15627,7 +15630,7 @@
     <_Transform 
       position.x="-36117.1" 
       position.y="4954.04" 
-      rotation="-0.322948" 
+      rotation="-0.496272" 
       scale.x="1" 
       scale.y="1" >
     </_Transform>
@@ -15655,7 +15658,7 @@
       execute_on_added="0" 
       execute_on_removed="0" 
       execute_times="0" 
-      mLastExecutionFrame="1441501" 
+      mLastExecutionFrame="1441674" 
       mModAppendsDone="1" 
       remove_after_executed="0" 
       script_audio_event_dead="" 
@@ -16623,9 +16626,9 @@
     serialize="1" 
     tags="perk_entity" >
     <_Transform 
-      position.x="-36109.8" 
-      position.y="4947.23" 
-      rotation="-0.320423" 
+      position.x="-36110.2" 
+      position.y="4944.76" 
+      rotation="-0.496272" 
       scale.x="1" 
       scale.y="1" >
     </_Transform>
@@ -16658,7 +16661,7 @@
       execute_on_added="0" 
       execute_on_removed="0" 
       execute_times="0" 
-      mLastExecutionFrame="1441502" 
+      mLastExecutionFrame="1441674" 
       mModAppendsDone="1" 
       remove_after_executed="0" 
       script_audio_event_dead="" 
