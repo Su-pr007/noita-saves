@@ -1,10 +1,10 @@
-<Stats deaths="107" kills="29" player_kills="1" player_projectile_count="0" >
+<Stats deaths="108" kills="32" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
     <E key="NULL | $damage_explosion" value="40" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -45,6 +45,8 @@
     <E key="fireskull" value="1" >
     </E>
     <E key="fly" value="1" >
+    </E>
+    <E key="longleg" value="3" >
     </E>
     <E key="miniblob" value="3" >
     </E>
