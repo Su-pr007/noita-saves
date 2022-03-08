@@ -19,14 +19,14 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="60.8665" 
-    clouds_02_target="97.1808" 
+    clouds_01_target="94.3547" 
+    clouds_02_target="172.331" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="36" 
+    day_count="41" 
     fog="0" 
     fog_target="0" 
-    global_genome_relations_modifier="0" 
+    global_genome_relations_modifier="25" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0" 
     intro_weather="0" 
@@ -47,21 +47,21 @@
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
-    player_polymorph_count="5" 
+    player_polymorph_count="7" 
     player_polymorph_random_count="6" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.00498908" 
-    rain_target="0" 
+    rain="0.0743708" 
+    rain_target="0.0792161" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.268008" 
+    time="0.286516" 
     time_dt="1" 
-    time_total="36.1024" 
+    time_total="41.4652" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.0728717" 
-    wind_speed="4.37231" 
+    wind="0.0839934" 
+    wind_speed="5.03963" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -102,6 +102,10 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_CONTACT_DAMAGE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_CRITICAL_HIT_PICKUP_COUNT" 
         value="1" >
       </E>
@@ -126,6 +130,14 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_FASTER_WANDS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_GENOME_MORE_LOVE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_LASER_AIM_PICKUP_COUNT" 
         value="1" >
       </E>
@@ -135,6 +147,10 @@
       </E>
       <E 
         key="PERK_PICKED_NO_MORE_SHUFFLE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_ORBIT_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -183,7 +199,7 @@
       </E>
       <E 
         key="PLAYER_HALO_LEVEL" 
-        value="0" >
+        value="1" >
       </E>
       <E 
         key="STEVARI_DEATHS" 
@@ -234,7 +250,19 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_LEAKED_-1_12" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_-1_16" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_LEAKED_-1_2" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_-1_20" 
         value="1" >
       </E>
       <E 
@@ -299,7 +327,7 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="53" >
+        value="65" >
       </E>
       <E 
         key="TEMPLE_PERK_COUNT" 
@@ -327,11 +355,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_snowcave,$biome_excavationsite,$biome_holymountain,$biome_coalmine,$biome" >
+        value="$biome_orbroom,_EMPTY_,$biome_coalmine_alt,$biome_holymountain,$biome_excavation" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="182" >
+        value="231" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -355,6 +383,15 @@
       </primitive>
       <primitive>
         129
+      </primitive>
+      <primitive>
+        128
+      </primitive>
+      <primitive>
+        0
+      </primitive>
+      <primitive>
+        7
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -981,6 +1018,96 @@
       </string>
       <string>
         PERK_PICKED_ANGRY_LEVITATION
+      </string>
+      <string>
+        new_action_orbit_larpa
+      </string>
+      <string>
+        PERK_CONTACT_DAMAGE
+      </string>
+      <string>
+        PERK_ADVENTURER
+      </string>
+      <string>
+        PERK_TELEKINESIS
+      </string>
+      <string>
+        new_perk_picked_contact_damage
+      </string>
+      <string>
+        PERK_PICKED_CONTACT_DAMAGE
+      </string>
+      <string>
+        PERK_PICKED_GENOME_MORE_LOVE
+      </string>
+      <string>
+        new_kill_root_grower
+      </string>
+      <string>
+        PERK_FASTER_WANDS
+      </string>
+      <string>
+        PERK_HOVER_BOOST
+      </string>
+      <string>
+        PERK_WORM_ATTRACTOR
+      </string>
+      <string>
+        PERK_TRICK_BLOOD_MONEY
+      </string>
+      <string>
+        PERK_PICKED_FASTER_WANDS
+      </string>
+      <string>
+        PERK_EXPLODING_GOLD
+      </string>
+      <string>
+        PERK_PROJECTILE_SLOW_FIELD
+      </string>
+      <string>
+        PERK_ORBIT
+      </string>
+      <string>
+        PERK_EXTRA_MANA
+      </string>
+      <string>
+        new_kill_icer
+      </string>
+      <string>
+        PERK_PICKED_ORBIT
+      </string>
+      <string>
+        new_kill_mimic_physics
+      </string>
+      <string>
+        new_kill_drone_shield
+      </string>
+      <string>
+        new_kill_parallel_tentacles
+      </string>
+      <string>
+        new_action_colour_green
+      </string>
+      <string>
+        new_action_homing_accelerating
+      </string>
+      <string>
+        new_action_magic_shield
+      </string>
+      <string>
+        new_action_bomb_holy
+      </string>
+      <string>
+        new_action_burst_x
+      </string>
+      <string>
+        new_action_nuke
+      </string>
+      <string>
+        new_action_tentacle_timer
+      </string>
+      <string>
+        new_action_larpa_upwards
       </string>
     </flags>
     <changed_materials>

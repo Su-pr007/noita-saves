@@ -1,20 +1,22 @@
-<Stats deaths="57" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="60" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="14" >
+    <E key="NULL | $damage_explosion" value="15" >
     </E>
     <E key="NULL | $damage_fire" value="3" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
-    <E key="NULL | урон от материала: замораживающее испарение" value="2" >
+    <E key="NULL | урон от материала: замораживающее испарение" value="3" >
     </E>
     <E key="NULL | урон от материала: радиоактивный лед" value="1" >
     </E>
     <E key="bigzombie | $damage_fire" value="1" >
     </E>
     <E key="black_hole_giga | " value="1" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="1" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="1006" kills="46" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1009" kills="46" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="25" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="54" >
     </E>
-    <E key="NULL | $damage_fire" value="100" >
+    <E key="NULL | $damage_fire" value="101" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | урон от материала: радиоактивный газ" value="1" >
     </E>
-    <E key="NULL | урон от материала: радиоактивный камень" value="5" >
+    <E key="NULL | урон от материала: радиоактивный камень" value="6" >
     </E>
     <E key="acidshooter_weak | $damage_projectile" value="2" >
     </E>
@@ -54,7 +54,7 @@
     </E>
     <E key="player | $damage_kick" value="2" >
     </E>
-    <E key="player | $damage_melee" value="10" >
+    <E key="player | $damage_melee" value="11" >
     </E>
     <E key="player | $damage_projectile" value="189" >
     </E>

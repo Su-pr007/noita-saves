@@ -1,6 +1,6 @@
-<Stats deaths="1420" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1428" kills="39" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="35" >
+    <E key="NULL | $damage_drowning" value="36" >
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
@@ -32,7 +32,9 @@
     </E>
     <E key="bigfirebug | $damage_projectile" value="1" >
     </E>
-    <E key="blob | $damage_melee" value="18" >
+    <E key="blob | $damage_melee" value="20" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="2" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
@@ -44,9 +46,11 @@
     </E>
     <E key="fireskull | $damage_melee" value="1" >
     </E>
+    <E key="fly | $damage_melee" value="1" >
+    </E>
     <E key="frog | $damage_melee" value="5" >
     </E>
-    <E key="frog_big | $damage_melee" value="2" >
+    <E key="frog_big | $damage_melee" value="3" >
     </E>
     <E key="giant | $damage_melee" value="7" >
     </E>
@@ -59,6 +63,8 @@
     <E key="iceskull | $damage_ice" value="57" >
     </E>
     <E key="iceskull | $damage_melee" value="28" >
+    </E>
+    <E key="lukki | hit" value="1" >
     </E>
     <E key="miner | $damage_explosion" value="10" >
     </E>
@@ -177,6 +183,8 @@
     <E key="bat" value="10" >
     </E>
     <E key="firebug" value="10" >
+    </E>
+    <E key="fish" value="1" >
     </E>
     <E key="goblin_bomb" value="1" >
     </E>

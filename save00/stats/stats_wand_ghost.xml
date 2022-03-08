@@ -1,8 +1,16 @@
-<Stats deaths="1" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="8" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="player | $damage_melee" value="1" >
+    <E key="orb_laseremitter_four | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="wand_ghost | $damage_hitfx_curse" value="1" >
     </E>
   </death_map>
   <kill_map>
+    <E key="wand_ghost" value="1" >
+    </E>
   </kill_map>
 </Stats>
