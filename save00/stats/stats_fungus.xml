@@ -1,16 +1,18 @@
-<Stats deaths="80" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="164" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="46" >
+    <E key="NULL | $damage_explosion" value="91" >
     </E>
-    <E key="NULL | $damage_fire" value="16" >
+    <E key="NULL | $damage_fire" value="27" >
     </E>
-    <E key="NULL | $damage_physicshit" value="3" >
+    <E key="NULL | $damage_physicshit" value="5" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | урон от материала: Яд" value="1" >
     </E>
-    <E key="NULL | урон от материала: кислота" value="2" >
+    <E key="NULL | урон от материала: кислота" value="12" >
     </E>
     <E key="NULL | урон от материала: радиоактивный камень" value="1" >
     </E>
@@ -18,11 +20,17 @@
     </E>
     <E key="necromancer_super | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_melee" value="1" >
+    <E key="player | $damage_curse" value="1" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="12" >
     </E>
     <E key="player | $damage_projectile" value="5" >
     </E>
     <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
   </death_map>
   <kill_map>

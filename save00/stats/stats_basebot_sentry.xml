@@ -1,0 +1,22 @@
+<Stats deaths="34" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="5" >
+    </E>
+    <E key="black_hole_giga | " value="1" >
+    </E>
+    <E key="black_hole_giga | $action_black_hole_giga" value="1" >
+    </E>
+    <E key="boss_robot | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $action_black_hole_giga" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="23" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="glue" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="101.903" 
-    clouds_02_target="189.27" 
+    clouds_01_target="91.2033" 
+    clouds_02_target="165.259" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="42" 
+    day_count="45" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="25" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.585305" 
+    time="0.205717" 
     time_dt="1" 
-    time_total="42.853" 
+    time_total="45.6533" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.00313026" 
-    wind_speed="-0.18786" 
+    wind="0.0476274" 
+    wind_speed="2.85769" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -139,6 +139,10 @@
       </E>
       <E 
         key="PERK_PICKED_LASER_AIM_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_MAP_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -355,11 +359,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_winter,_EMPTY_,$biome_coalmine,$biome_holymountain,$biome_excavationsite," >
+        value="_EMPTY_,$biome_liquidcave,$biome_winter,$biome_desert,_EMPTY_,$biome_pyramid,$bi" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="255" >
+        value="279" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -395,6 +399,9 @@
       </primitive>
       <primitive>
         1
+      </primitive>
+      <primitive>
+        4
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -1111,6 +1118,54 @@
       </string>
       <string>
         new_action_larpa_upwards
+      </string>
+      <string>
+        new_kill_fungus_big
+      </string>
+      <string>
+        new_kill_scavenger_mine
+      </string>
+      <string>
+        new_kill_basebot_neutralizer
+      </string>
+      <string>
+        new_kill_basebot_soldier
+      </string>
+      <string>
+        new_kill_basebot_sentry
+      </string>
+      <string>
+        new_kill_roboguard_big
+      </string>
+      <string>
+        new_kill_basebot_hidden
+      </string>
+      <string>
+        new_kill_boss_robot
+      </string>
+      <string>
+        new_perk_picked_map
+      </string>
+      <string>
+        PERK_PICKED_MAP
+      </string>
+      <string>
+        new_action_colour_yellow
+      </string>
+      <string>
+        new_action_big_magic_shield
+      </string>
+      <string>
+        new_action_remove_bounce
+      </string>
+      <string>
+        new_action_recoil_damper
+      </string>
+      <string>
+        new_action_colour_purple
+      </string>
+      <string>
+        new_action_random_explosion
       </string>
     </flags>
     <changed_materials>

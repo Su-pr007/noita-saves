@@ -1,10 +1,10 @@
-<Stats deaths="108" kills="32" player_kills="1" player_projectile_count="0" >
+<Stats deaths="157" kills="40" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="40" >
+    <E key="NULL | $damage_explosion" value="76" >
     </E>
-    <E key="NULL | $damage_physicshit" value="3" >
+    <E key="NULL | $damage_physicshit" value="5" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -14,13 +14,17 @@
     </E>
     <E key="firemage_weak | $damage_explosion" value="1" >
     </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
     <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="2" >
     </E>
+    <E key="player | $damage_curse" value="3" >
+    </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_melee" value="5" >
+    <E key="player | $damage_melee" value="12" >
     </E>
     <E key="player | $damage_projectile" value="17" >
     </E>
@@ -42,6 +46,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="duck" value="5" >
+    </E>
     <E key="fireskull" value="1" >
     </E>
     <E key="fly" value="1" >
@@ -55,6 +61,10 @@
     <E key="rat" value="20" >
     </E>
     <E key="sheep" value="1" >
+    </E>
+    <E key="sheep_bat" value="2" >
+    </E>
+    <E key="sheep_fly" value="1" >
     </E>
     <E key="zombie" value="1" >
     </E>

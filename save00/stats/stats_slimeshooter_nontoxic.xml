@@ -1,6 +1,10 @@
-<Stats deaths="10" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_fire" value="1" >
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="firemage_weak | $damage_explosion" value="1" >
     </E>
@@ -19,6 +23,8 @@
     <E key="cocktail" value="1" >
     </E>
     <E key="frog" value="1" >
+    </E>
+    <E key="fungus" value="1" >
     </E>
     <E key="longleg" value="2" >
     </E>

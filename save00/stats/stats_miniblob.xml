@@ -1,20 +1,20 @@
-<Stats deaths="510" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="682" kills="35" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="7" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="32" >
     </E>
-    <E key="NULL | $damage_explosion" value="117" >
+    <E key="NULL | $damage_explosion" value="180" >
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
-    <E key="NULL | $damage_physicshit" value="20" >
+    <E key="NULL | $damage_physicshit" value="23" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
-    <E key="NULL | $damage_projectile" value="5" >
+    <E key="NULL | $damage_projectile" value="25" >
     </E>
-    <E key="ant | $damage_melee" value="6" >
+    <E key="ant | $damage_melee" value="11" >
     </E>
     <E key="black_hole_giga | " value="8" >
     </E>
@@ -30,6 +30,8 @@
     </E>
     <E key="fly | $damage_melee" value="1" >
     </E>
+    <E key="fungus_giga | $damage_projectile" value="2" >
+    </E>
     <E key="fungus_tiny | $damage_melee" value="2" >
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
@@ -44,17 +46,17 @@
     </E>
     <E key="plague_rats_rat | $damage_melee" value="11" >
     </E>
-    <E key="player | $damage_curse" value="2" >
+    <E key="player | $damage_curse" value="41" >
     </E>
     <E key="player | $damage_explosion" value="4" >
     </E>
     <E key="player | $damage_ice" value="4" >
     </E>
-    <E key="player | $damage_melee" value="28" >
+    <E key="player | $damage_melee" value="60" >
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="117" >
+    <E key="player | $damage_projectile" value="124" >
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
@@ -100,6 +102,8 @@
   <kill_map>
     <E key="ant" value="2" >
     </E>
+    <E key="blob" value="1" >
+    </E>
     <E key="duck" value="1" >
     </E>
     <E key="firemage_weak" value="1" >
@@ -112,7 +116,7 @@
     </E>
     <E key="rat" value="3" >
     </E>
-    <E key="sheep" value="8" >
+    <E key="sheep" value="10" >
     </E>
     <E key="sheep_fly" value="2" >
     </E>

@@ -1,14 +1,32 @@
-<Stats deaths="30" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="114" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="26" >
+    <E key="NULL | $damage_explosion" value="76" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="18" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="NULL | урон от материала: кислота" value="3" >
+    </E>
+    <E key="NULL | урон от материала: радиоактивный камень" value="6" >
+    </E>
+    <E key="black_hole_giga | " value="3" >
+    </E>
+    <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
+    <E key="player | $damage_melee" value="2" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="duck" value="1" >
+    </E>
     <E key="miniblob" value="2" >
+    </E>
+    <E key="sheep" value="1" >
     </E>
   </kill_map>
 </Stats>
