@@ -1,12 +1,12 @@
-<Stats deaths="12" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="lasergun | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_melee" value="5" >
+    <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="3" >
+    <E key="player | $damage_projectile" value="4" >
     </E>
     <E key="worm_big_worm_rain | worm bite" value="1" >
     </E>
@@ -14,7 +14,7 @@
   <kill_map>
     <E key="lasergun" value="6" >
     </E>
-    <E key="scorpion" value="1" >
+    <E key="scorpion" value="2" >
     </E>
     <E key="spitmonster" value="1" >
     </E>

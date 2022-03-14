@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="91.2033" 
-    clouds_02_target="165.259" 
+    clouds_01_target="72.2725" 
+    clouds_02_target="122.777" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="45" 
+    day_count="50" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="25" 
@@ -47,7 +47,7 @@
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
-    player_polymorph_count="7" 
+    player_polymorph_count="8" 
     player_polymorph_random_count="6" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.205717" 
+    time="0.0815642" 
     time_dt="1" 
-    time_total="45.6533" 
+    time_total="50.8637" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.0476274" 
-    wind_speed="2.85769" 
+    wind="0.030729" 
+    wind_speed="1.84375" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -122,7 +122,15 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_EXTRA_MONEY_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_EXTRA_PERK_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_EXTRA_SLOTS_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -131,10 +139,14 @@
       </E>
       <E 
         key="PERK_PICKED_FASTER_WANDS_PICKUP_COUNT" 
-        value="1" >
+        value="2" >
       </E>
       <E 
         key="PERK_PICKED_GENOME_MORE_LOVE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_IRON_STOMACH_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -147,6 +159,10 @@
       </E>
       <E 
         key="PERK_PICKED_MOON_RADAR_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_MOVEMENT_FASTER_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -163,6 +179,10 @@
       </E>
       <E 
         key="PERK_PICKED_PROJECTILE_REPULSION_SECTOR_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_PROTECTION_ELECTRICITY_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -183,6 +203,10 @@
       </E>
       <E 
         key="PERK_PICKED_REVENGE_TENTACLE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_RISKY_CRITICAL_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -242,6 +266,10 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_ACTIVE_-72039_1307" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_ACTIVE_2233_13078" 
         value="0" >
       </E>
@@ -275,6 +303,30 @@
       </E>
       <E 
         key="TEMPLE_LEAKED_-1_9" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_-2_12" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_-2_16" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_-2_2" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_-2_20" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_-2_5" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_-2_9" 
         value="1" >
       </E>
       <E 
@@ -331,7 +383,7 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="65" >
+        value="89" >
       </E>
       <E 
         key="TEMPLE_PERK_COUNT" 
@@ -359,11 +411,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_liquidcave,$biome_winter,$biome_desert,_EMPTY_,$biome_pyramid,$bi" >
+        value="$biome_holymountain,$biome_vault,$biome_rainforest,$biome_snowcastle,$biome_holy" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="279" >
+        value="334" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -402,6 +454,9 @@
       </primitive>
       <primitive>
         4
+      </primitive>
+      <primitive>
+        135
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -1166,6 +1221,108 @@
       </string>
       <string>
         new_action_random_explosion
+      </string>
+      <string>
+        new_kill_bloodcrystal_physics
+      </string>
+      <string>
+        PERK_EXTRA_SLOTS
+      </string>
+      <string>
+        PERK_VAMPIRISM
+      </string>
+      <string>
+        PERK_STAINLESS_ARMOUR
+      </string>
+      <string>
+        PERK_PICKED_EXTRA_SLOTS
+      </string>
+      <string>
+        PERK_PLAGUE_RATS
+      </string>
+      <string>
+        PERK_IRON_STOMACH
+      </string>
+      <string>
+        PERK_CORDYCEPS
+      </string>
+      <string>
+        PERK_RISKY_CRITICAL
+      </string>
+      <string>
+        PERK_PICKED_IRON_STOMACH
+      </string>
+      <string>
+        new_perk_picked_risky_critical
+      </string>
+      <string>
+        PERK_PICKED_RISKY_CRITICAL
+      </string>
+      <string>
+        PERK_REVENGE_RATS
+      </string>
+      <string>
+        PERK_WORM_SMALLER_HOLES
+      </string>
+      <string>
+        PERK_MOVEMENT_FASTER
+      </string>
+      <string>
+        PERK_PICKED_EXTRA_MONEY
+      </string>
+      <string>
+        PERK_PICKED_MOVEMENT_FASTER
+      </string>
+      <string>
+        PERK_LOWER_SPREAD
+      </string>
+      <string>
+        PERK_GLOBAL_GORE
+      </string>
+      <string>
+        PERK_RESPAWN
+      </string>
+      <string>
+        new_kill_assassin
+      </string>
+      <string>
+        new_action_spitter_tier_3_timer
+      </string>
+      <string>
+        PERK_GAMBLE
+      </string>
+      <string>
+        PERK_RADAR_ENEMY
+      </string>
+      <string>
+        PERK_PERSONAL_LASER
+      </string>
+      <string>
+        PERK_PROTECTION_ELECTRICITY
+      </string>
+      <string>
+        PERK_PICKED_PROTECTION_ELECTRICITY
+      </string>
+      <string>
+        new_kill_wraith_glowing
+      </string>
+      <string>
+        new_action_exploding_deer
+      </string>
+      <string>
+        new_kill_exploding_deer
+      </string>
+      <string>
+        new_kill_firetrap_left
+      </string>
+      <string>
+        new_action_lightning_ray
+      </string>
+      <string>
+        new_action_tentacle_ray
+      </string>
+      <string>
+        new_action_damage_random
       </string>
     </flags>
     <changed_materials>

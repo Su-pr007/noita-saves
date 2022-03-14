@@ -1,4 +1,4 @@
-<Stats deaths="45" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="64" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -10,9 +10,9 @@
     </E>
     <E key="black_hole_giga | $action_black_hole_giga" value="1" >
     </E>
-    <E key="player | $damage_melee" value="20" >
+    <E key="player | $damage_melee" value="30" >
     </E>
-    <E key="player | $damage_projectile" value="12" >
+    <E key="player | $damage_projectile" value="21" >
     </E>
     <E key="wizard_neutral | $damage_projectile" value="1" >
     </E>

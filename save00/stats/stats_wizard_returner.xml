@@ -1,4 +1,4 @@
-<Stats deaths="16" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="19" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -6,15 +6,23 @@
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
+    <E key="black_hole_giga | $action_black_hole_giga" value="1" >
+    </E>
     <E key="lukki_dark | $damage_curse" value="2" >
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="2" >
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="wizard_returner | $action_black_hole_giga" value="1" >
     </E>
   </death_map>
   <kill_map>
+    <E key="ghost_crystal" value="1" >
+    </E>
     <E key="scorpion" value="1" >
+    </E>
+    <E key="wizard_returner" value="1" >
     </E>
   </kill_map>
 </Stats>

@@ -1,4 +1,4 @@
-<Stats deaths="1009" kills="46" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1014" kills="46" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="25" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_explosion" value="54" >
     </E>
-    <E key="NULL | $damage_fire" value="101" >
+    <E key="NULL | $damage_fire" value="103" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="37" >
+    <E key="NULL | $damage_physicshit" value="39" >
     </E>
     <E key="NULL | урон от материала: кислота" value="2" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="117" >
+    <E key="miner_weak | $damage_explosion" value="118" >
     </E>
     <E key="miner_weak | $damage_melee" value="82" >
     </E>

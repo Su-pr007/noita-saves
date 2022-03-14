@@ -1,4 +1,4 @@
-<Stats deaths="65" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="81" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="6" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | урон от материала: замораживающее испарение" value="4" >
     </E>
-    <E key="NULL | урон от материала: кислота" value="1" >
+    <E key="NULL | урон от материала: кислота" value="2" >
     </E>
     <E key="basebot_neutralizer | $damage_projectile" value="2" >
     </E>
@@ -26,9 +26,9 @@
     </E>
     <E key="player | $damage_explosion" value="3" >
     </E>
-    <E key="player | $damage_melee" value="10" >
+    <E key="player | $damage_melee" value="22" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="12" >
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>

@@ -1,14 +1,14 @@
-<Stats deaths="294" kills="30" player_kills="0" player_projectile_count="0" >
+<Stats deaths="299" kills="30" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="7" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="27" >
+    <E key="NULL | $damage_explosion" value="28" >
     </E>
-    <E key="NULL | $damage_fire" value="59" >
+    <E key="NULL | $damage_fire" value="60" >
     </E>
-    <E key="NULL | $damage_physicshit" value="26" >
+    <E key="NULL | $damage_physicshit" value="27" >
     </E>
     <E key="NULL | урон от материала: замораживающее испарение" value="1" >
     </E>
@@ -25,6 +25,8 @@
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
