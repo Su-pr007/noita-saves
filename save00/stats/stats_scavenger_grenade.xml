@@ -1,10 +1,10 @@
-<Stats deaths="892" kills="209" player_kills="2" player_projectile_count="0" >
+<Stats deaths="963" kills="218" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="15" >
     </E>
-    <E key="NULL | $damage_electricity" value="6" >
+    <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="93" >
+    <E key="NULL | $damage_explosion" value="99" >
     </E>
     <E key="NULL | $damage_fire" value="31" >
     </E>
@@ -12,21 +12,23 @@
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="44" >
+    <E key="NULL | $damage_physicshit" value="53" >
     </E>
     <E key="NULL | $damage_projectile" value="13" >
     </E>
-    <E key="NULL | $damage_radioactive" value="15" >
+    <E key="NULL | $damage_radioactive" value="17" >
     </E>
     <E key="NULL | урон от материала: замораживающая жидкость" value="4" >
     </E>
-    <E key="NULL | урон от материала: замораживающее испарение" value="36" >
+    <E key="NULL | урон от материала: замораживающее испарение" value="38" >
     </E>
-    <E key="NULL | урон от материала: кислота" value="9" >
+    <E key="NULL | урон от материала: кислота" value="10" >
     </E>
     <E key="bigzombie | $damage_explosion" value="1" >
     </E>
     <E key="bigzombietorso | $damage_explosion" value="2" >
+    </E>
+    <E key="black_hole_big | " value="1" >
     </E>
     <E key="black_hole_giga | " value="4" >
     </E>
@@ -44,11 +46,11 @@
     </E>
     <E key="pebble_physics | $damage_explosion" value="1" >
     </E>
-    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="21" >
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="22" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="33" >
     </E>
-    <E key="player | $damage_curse" value="1" >
+    <E key="player | $damage_curse" value="2" >
     </E>
     <E key="player | $damage_electricity" value="11" >
     </E>
@@ -56,9 +58,9 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_melee" value="86" >
+    <E key="player | $damage_melee" value="128" >
     </E>
-    <E key="player | $damage_projectile" value="222" >
+    <E key="player | $damage_projectile" value="227" >
     </E>
     <E key="player | $damage_slice" value="50" >
     </E>
@@ -112,7 +114,7 @@
     </E>
     <E key="glue" value="2" >
     </E>
-    <E key="iceskull" value="11" >
+    <E key="iceskull" value="12" >
     </E>
     <E key="pebble_physics" value="1" >
     </E>
@@ -126,7 +128,7 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="118" >
+    <E key="rat" value="126" >
     </E>
     <E key="scavenger_grenade" value="2" >
     </E>

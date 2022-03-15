@@ -1,10 +1,10 @@
-<Stats deaths="1453" kills="39" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1470" kills="39" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="36" >
+    <E key="NULL | $damage_drowning" value="38" >
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="89" >
+    <E key="NULL | $damage_explosion" value="90" >
     </E>
     <E key="NULL | $damage_fire" value="66" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="43" >
+    <E key="NULL | $damage_physicshit" value="44" >
     </E>
     <E key="NULL | $damage_projectile" value="5" >
     </E>
@@ -88,7 +88,7 @@
     </E>
     <E key="player | $damage_melee" value="14" >
     </E>
-    <E key="player | $damage_projectile" value="57" >
+    <E key="player | $damage_projectile" value="58" >
     </E>
     <E key="player | $damage_slice" value="9" >
     </E>
@@ -110,19 +110,19 @@
     </E>
     <E key="scavenger_glue | $damage_projectile" value="4" >
     </E>
-    <E key="scavenger_grenade | $damage_melee" value="36" >
+    <E key="scavenger_grenade | $damage_melee" value="39" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="82" >
+    <E key="scavenger_grenade | $damage_projectile" value="87" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="4" >
     </E>
     <E key="scavenger_leader | $damage_projectile" value="4" >
     </E>
-    <E key="scavenger_smg | $damage_explosion" value="20" >
+    <E key="scavenger_smg | $damage_explosion" value="21" >
     </E>
     <E key="scavenger_smg | $damage_melee" value="14" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="58" >
+    <E key="scavenger_smg | $damage_projectile" value="59" >
     </E>
     <E key="shotgunner | $damage_melee" value="49" >
     </E>
@@ -152,7 +152,7 @@
     </E>
     <E key="tentacler | $damage_melee" value="2" >
     </E>
-    <E key="tentacler_small | $damage_melee" value="4" >
+    <E key="tentacler_small | $damage_melee" value="6" >
     </E>
     <E key="thundermage | $damage_electricity" value="10" >
     </E>
