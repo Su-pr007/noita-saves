@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20220301-224656" 
     sky_sunset_alpha_target="1" 
-    time="0.0815642" 
+    time="0.083289" 
     time_dt="1" 
-    time_total="50.8637" 
+    time_total="50.8655" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.030729" 
-    wind_speed="1.84375" 
+    wind="0.0307283" 
+    wind_speed="1.84371" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
